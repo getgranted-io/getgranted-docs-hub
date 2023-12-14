@@ -18,6 +18,13 @@ Granted manages the entire application process, from creating the application fr
 
 At Granted, we understand the importance of a streamlined fundraising journey. That's why we've developed the Fundraising Nexus Dashboard, a central hub designed to simplify and enhance the grant application process for both our clients and grant foundations.
 
+{% hint style="info" %}
+**Got 2 minutes?** Check out the Fundraising Nexus demo!\
+
+
+{% embed url="https://www.youtube.com/watch?v=UvKgTTWHKnQ" %}
+{% endhint %}
+
 **Features of the Fundraising Nexus Dashboard:**
 
 1. **User-Friendly Interface**: The Nexus Dashboard is intuitively designed to be user-friendly, ensuring ease of navigation for all users, regardless of their technical expertise.
