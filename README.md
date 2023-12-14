@@ -20,26 +20,25 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 🪢 We offer free access to our Fundraising Nexus platform to support centralized management of Grant application flow's from start to finish, including powerful centralized analytics.
 
-🚀 **Ready for launch?** 👉 [Apply](https://www.getgranted.io/granted-application) or [contact us](mailto:info@getgranted.io) today!
-
 ## 🛠️ Quickstart Guide
 
 Let's work together to connect more of the best builders to the highest quality sources of funding to drive web3 development and adoption globally!&#x20;
 
 Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
 
+***
+
 ### 🤤 **Projects Seeking Funding**
 
 Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. ℹ️ [Learn more](https://app.gitbook.com/o/7mbO0XE4HgktetoAS2Lk/s/cEK4Mw8mNUBELtyOcWUl/).
-
-1. Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
-2. Register at [GetGranted.io](http://getgranted.io).
 
 ### 🏦 **Funding Seeking Projects**
 
 Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today! ℹ️ [Learn more](https://app.gitbook.com/o/7mbO0XE4HgktetoAS2Lk/s/cEK4Mw8mNUBELtyOcWUl/).
 
-**Ready to get started?** Contact us 👉 [https://www.getgranted.io/contact-us](https://www.getgranted.io/contact-us)
+**🚀 Ready for launch? 👉** [**Apply**](https://www.getgranted.io/granted-application) **or** [**contact us**](mailto:info@getgranted.io) **today!**
+
+***
 
 ### 💬 Community
 
