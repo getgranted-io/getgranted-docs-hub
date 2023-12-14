@@ -1,8 +1,12 @@
 # 👨🚀 Getting Started
 
+{% hint style="info" %}
+Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
+{% endhint %}
+
 ### 🍽️ Projects looking for Funding
 
-CTA: Apply for a grant (LINK TO FORM) and we will assist you in the following ways:
+CTA: Apply for a grant and we will assist you in the following ways:
 
 * pre-qualify you, to avoid repeating the same questions over and over. Understand your priorities and requirements and find the best supplier with grants to offer.
 * agree to manage your CFP submissions to grants and other funding programs.
@@ -15,10 +19,15 @@ CTA: Apply for a grant (LINK TO FORM) and we will assist you in the following wa
 
 ### 🌱 Funds looking for Projects
 
-CTA: Introduce yourself. Happy to have a call (LINK TO FORM / calendly).
+CTA: Contact us to let us know more about your needs (LINK TO FORM / calendly).
+
+{% hint style="info" %}
+Contact Us 👉 [https://www.getgranted.io/contact-us](https://www.getgranted.io/contact-us)
+{% endhint %}
 
 * we pre-qualify funding sources too, so we can work together in a partnership and look to scale bigger after establishing trust.
 * we make sure all the candidates are solid.
 * your effort per grant proposal review is reduced significantly!
 * we provide tools and support for the E2E process with each grant.&#x20;
 * our approach assumes community first, decentralized, open source approach by default.
+

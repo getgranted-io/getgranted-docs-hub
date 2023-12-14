@@ -29,3 +29,14 @@ At Granted, we understand the importance of a streamlined fundraising journey. T
 7. **Ongoing Support and Guidance**: The Granted team is always available to assist clients with any queries or guidance they need while using the Nexus Dashboard, ensuring a smooth onboarding and usage experience.
 
 The Fundraising Nexus Dashboard is more than just a tool; it's a comprehensive solution designed to make the grant application process as efficient and stress-free as possible. By centralizing key functions and providing essential resources in one accessible platform, the Nexus Dashboard stands as a testament to Granted's commitment to facilitating success in the blockchain space.
+
+### 🫱🏾‍🫲🏼 Preferred Access Policy
+
+The GetGranted Preferred Access Policy is a cornerstone of Granted's approach to facilitating successful grant applications. This policy is built on strategic partnerships with various grant committees, enabling the Granted team to gain deep insights into the specific requirements and preferences of these foundations. Here’s how this policy enhances the grant application process:
+
+1. **Strategic Partnerships with Grant Committees**: By partnering directly with grant committees, Granted gains a thorough understanding of what these committees are looking for in potential projects. This knowledge enables us to guide our clients effectively in aligning their initiatives with these preferences.
+2. **Tailored Application Preparation**: Our team assists clients in preparing and proposing new grants, ensuring that each application is crafted to meet the specific criteria and expectations of the target foundation.
+3. **Pre-Qualification of Clients**: We employ a rigorous pre-qualification process for our clients, ensuring that they meet the high standards expected by grant foundations. This process includes an in-depth review of their projects, objectives, and capabilities.
+4. **Prioritized Application Processing**: Due to our established relationships and the trust we've built with grant committees, applications submitted through Granted often receive priority consideration. Grant foundations recognize that our pre-vetted applications are likely to meet their criteria, leading to a more efficient review process.
+5. **Continuous Collaboration and Feedback Loop**: Our ongoing collaboration with grant committees also means we receive continuous feedback, allowing us to refine our approach and provide our clients with up-to-date advice on how to improve their grant applications.
+6. **Enhanced Success Rates**: As a result of these concerted efforts, our clients benefit from a higher likelihood of their applications being accepted, thanks to the alignment with grant committee expectations and the prioritization of their submissions.

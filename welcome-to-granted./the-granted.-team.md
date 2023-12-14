@@ -1,85 +1,17 @@
 # 🗝 The Granted. Team
 
-A multidisciplinary team of 5, plus partners and community.&#x20;
+We have spent years scaling Web3 and blockchain start-ups, building out fundraising strategies, and launching proven systems. Granted is our magnum-opus. &#x20;
 
-{% tabs %}
-{% tab title="Benjamin Sullivan" %}
+| <p></p><p><img src="../.gitbook/assets/image (3).png" alt="" data-size="original"></p><p><strong>Benjamin Sullivan</strong> </p><p>Co-Founder</p>                                                                                                                                                                                                                | <p></p><p><img src="../.gitbook/assets/image (5).png" alt="" data-size="original"></p><p><strong>Craig Barton</strong> </p><p>Co-Founder &#x26; Director of Customer Success</p> |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p></p><p><img src="../.gitbook/assets/image (6).png" alt="" data-size="original"></p><p><strong>Sean Shanahan</strong> </p><p>Co-Founder</p>                                                                                                                                                                                                                    | <p></p><p><img src="../.gitbook/assets/image (4).png" alt="" data-size="original"></p><p><strong>Eric Lau</strong> </p><p>Head of Marketing</p>                                  |
+| <p></p><p><img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original"></p><p><strong>Chris Ward</strong> </p><p>Tech Lead</p><p>15 year veteran in Open Source development and community building.</p><p></p><p>Telegram: <a href="https://t.me/calmratx">t.me/calmratx</a></p><p>Twitter: <a href="https://x.com/calmrat">x.com/calmrat</a></p> | <p></p><p><img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original"></p><p></p><p><strong>Jeff Malki</strong> </p><p>Advisor, Strtupboost</p>                  |
 
 
-<div align="left">
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="125"><figcaption></figcaption></figure>
 
-</div>
 
-**Benjamin Sullivan** Co-Founder
 
-... BIO ...
-{% endtab %}
 
-{% tab title="Craig Barton" %}
-<div align="left">
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="125"><figcaption></figcaption></figure>
 
-</div>
-
-**Craig Barton** Co-Founder & Director of Customer Success
-
-... BIO ...
-{% endtab %}
-
-{% tab title="Sean Shanahan" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="125"><figcaption></figcaption></figure>
-
-</div>
-
-**Sean Shanahan** Co-Founder
-
-... BIO ...
-{% endtab %}
-
-{% tab title="Eric Lau" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="125"><figcaption></figcaption></figure>
-
-</div>
-
-**Eric Lau** Head of Marketing
-
-... BIO ...
-{% endtab %}
-
-{% tab title="Chris Ward" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="125"><figcaption></figcaption></figure>
-
-</div>
-
-Chris Ward **Tech Lead**
-
-15 year veteran in Open Source development and community building.
-
-Telegram: [t.me/calmratx](https://t.me/calmratx)
-
-Twitter: [x.com/calmrat](https://x.com/calmrat)
-{% endtab %}
-
-{% tab title="Jeff Malki" %}
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="125"><figcaption></figcaption></figure>
-
-</div>
-
-**Jeff Malki** Advisor, Strtupboost
-
-... BIO ...
-{% endtab %}
-{% endtabs %}
-
-🛸 read on for our 🗞️ Latest Quarterly Report: A deep dive into how things have gone, where we're going, and what our current challenges and recent wins are over the past quarter.
