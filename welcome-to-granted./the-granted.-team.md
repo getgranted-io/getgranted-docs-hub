@@ -8,7 +8,7 @@ A multidisciplinary team of 5, plus partners and community.&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="125"><figcaption></figcaption></figure>
 
 </div>
 
@@ -56,7 +56,7 @@ A multidisciplinary team of 5, plus partners and community.&#x20;
 {% tab title="Chris Ward" %}
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="125"><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,7 +72,7 @@ Twitter: [x.com/calmrat](https://x.com/calmrat)
 {% tab title="Jeff Malki" %}
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="125"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="125"><figcaption></figcaption></figure>
 
 </div>
 
