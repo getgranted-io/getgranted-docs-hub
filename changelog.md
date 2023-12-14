@@ -2,5 +2,4 @@
 
 Version 0.1-dev
 
-*
-* Initial build
+* GetGranted.io Docs Hub is born!

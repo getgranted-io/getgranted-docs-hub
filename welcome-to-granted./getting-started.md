@@ -6,7 +6,7 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ### 🍽️ Projects looking for Funding
 
-CTA: Apply for a grant and we will assist you in the following ways:
+Apply for a grant and we will assist you in the following ways:
 
 * pre-qualify you, to avoid repeating the same questions over and over. Understand your priorities and requirements and find the best supplier with grants to offer.
 * agree to manage your CFP submissions to grants and other funding programs.
@@ -18,8 +18,6 @@ CTA: Apply for a grant and we will assist you in the following ways:
 * granted. dashboard for tracking and managing grants.
 
 ### 🌱 Funds looking for Projects
-
-CTA: Contact us to let us know more about your needs (LINK TO FORM / calendly).
 
 {% hint style="info" %}
 Contact Us 👉 [https://www.getgranted.io/contact-us](https://www.getgranted.io/contact-us)

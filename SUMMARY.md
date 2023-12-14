@@ -10,6 +10,4 @@
 * [🆘 Support](support/README.md)
   * [☎ Contact Us](support/contact-us.md)
   * [🤚 FAQ](support/faq.md)
-  * [📄 Policies](support/policies/README.md)
-    * [📃 Preferred Access Policy](support/policies/preferred-access-policy.md)
 * [🗃 Changelog](changelog.md)

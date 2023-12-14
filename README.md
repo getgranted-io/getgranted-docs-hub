@@ -24,8 +24,6 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 Let's work together to connect more of the best builders to the highest quality sources of funding to drive web3 development and adoption globally! Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
 
-👀 If you can't find what you're looking for, report a 🐛  [bug](https://github.com/getgranted-io/getgranted-io-docs-hub/issues), [✨ feature](https://github.com/getgranted-io/getgranted-io-docs-hub/issues), or let us know by [email](https://app.gitbook.com/u/ES88N8fea9WmEWPzzwX8JLy4fEv2).
-
 ### **Projects Seeking Funding**
 
 Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management. ℹ️ [Learn more](https://app.gitbook.com/o/7mbO0XE4HgktetoAS2Lk/s/cEK4Mw8mNUBELtyOcWUl/).
@@ -60,21 +58,15 @@ The permalink to this doc you're reading now: LINK
 
 ## 🛟 Support
 
-To communicate with the Granted. support team.
+You can communicate with the Granted. support team using the following methods:
 
-* Email us at info@getgranted.io
-
-If you think you have found a bug on the dashboard (OPEN SOURCE?), report it here
-
-\=> LINK
-
-If you’d like to suggest a feature, file an issue ([LINK TO ARTICLE HOW FEATURE REAQUESTS WORK](https://www.feedbear.com/blog/github-track-feature-requests))
+* Email: [info@getgranted.io](mailto:info@getgranted.io)
+* Contact Form: [https://www.getgranted.io/contact-us](https://www.getgranted.io/contact-us)
 
 ## 🍸 License
 
 This document and everything published in this repo is [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) licensed unless otherwise noted.
 
-👽 Nice to have on you on board. Continue on to read more about the Granted. Team.
+***
 
-🛸 Or Continue on to read our 🗞️ Latest Quarterly Report: Dive deep into how things have gone, where we're going, and what our current challenges and recent wins are over the past quarter.
-
+👀 Still not able to find what you're looking for? 💌 Send us an [email](https://app.gitbook.com/u/ES88N8fea9WmEWPzzwX8JLy4fEv2)!
