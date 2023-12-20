@@ -1,6 +1,6 @@
-# 🎍 The Granted. Story
+# 🎍 The Granted Story
 
-## 🪈 The Granted. Story
+## 🪈 The Granted Story
 
 Granted is more than a grant application platform; we're the driving force behind blockchain innovation. Our extensive network of grant foundations provides crucial funding access to expedite transformative projects.
 
