@@ -1,5 +1,9 @@
 # 🗃 Changelog
 
+v0.2.0-dev
+
+* First Partnership Network added: SKALE
+
 v0.1.2-dev
 
 * removed kyb reference
