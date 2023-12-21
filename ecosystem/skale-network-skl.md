@@ -1,4 +1,10 @@
-# 🐶 Skale Network | SKL
+---
+description: >-
+  This document contains comprehensive information for project teams to know
+  whether SKALE Network is the right place to build with Granted.
+---
+
+# 🐶 SKALE Network (SKL)
 
 {% hint style="info" %}
 Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
@@ -6,7 +12,7 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## SKALE | SKL&#x20;
 
-_This document contains comprehensive information for project teams to know whether SKALE Network is the right place to build with Granted<mark style="color:purple;">.</mark>_&#x20;
+**SKALE Network** is a powerful, elastic blockchain network designed for scaling Ethereum applications through cost-effective, high-speed, and configurable sidechains.
 
 **Token: SKL (**[**coingecko**](https://www.coingecko.com/cs/coins/skale)**)**
 

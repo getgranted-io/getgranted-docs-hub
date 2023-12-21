@@ -8,7 +8,7 @@
 * [📗 Fundraising Nexus](fundraising-nexus.md)
 * [📈 Reports](reports.md)
 * [✨ Ecosystem](ecosystem/README.md)
-  * [🐶 Skale Network | SKL](ecosystem/skale-network-or-skl.md)
+  * [🐶 SKALE Network (SKL)](ecosystem/skale-network-skl.md)
 * [🆘 Support](support/README.md)
   * [☎ Contact Us](support/contact-us.md)
   * [🤚 FAQ](support/faq.md)
