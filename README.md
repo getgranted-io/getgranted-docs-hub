@@ -12,13 +12,13 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## 👋 Welcome to the Granted Docs Hub
 
-We're Granted. We connect builders with funding and other resources. We carefully screen both builders and funders, employing standard KYC/KYB processes and offering comprehensive grant concierge services, so you can focus solely on your project's success.
+We're Granted. We connect builders with funding and other resources. We carefully screen both builders and funders, employing standard KYC processes and offering comprehensive grant concierge services, so you can focus solely on your project's success.
 
 🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
 
 🫱🏾‍🫲🏼 We qualify all the builders and funders on both sides, and put through rigorous KYC process, and offer managed grant concierge services, so project teams only have to worry about delivering.&#x20;
 
-🪢 We offer free access to our Fundraising Nexus platform to support centralized management of Grant application flow's from start to finish, including powerful centralized analytics.
+🪢 We offer free access to our Fundraising Nexus platform to support centralized management of Grant application flow's from start to finish, including powerful centralized analytics. [Demo](https://www.youtube.com/watch?v=UvKgTTWHKnQ).
 
 ## 🛠️ Quickstart Guide
 
@@ -30,13 +30,11 @@ Depending if you have a project seeking funding or have funds seeking projects t
 
 ### 🤤 **Projects Seeking Funding**
 
-Apply for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management.
+[**Apply**](https://www.getgranted.io/granted-application) for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management.
 
 ### 🏦 **Funding Seeking Projects**
 
-Introduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Broaden your developer ecosystem, today!
-
-<table data-header-hidden><thead><tr><th width="205"></th><th></th></tr></thead><tbody><tr><td>ℹ️ <a href="broken-reference">Learn more</a>.</td><td><strong>🚀 Ready for launch? 👉</strong> <a href="https://www.getgranted.io/granted-application"><strong>Apply</strong></a> <strong>or</strong> <a href="mailto:info@getgranted.io"><strong>contact us</strong></a> <strong>today!</strong></td></tr></tbody></table>
+[Contact us](mailto:info@getgranted.io) today to **i**ntroduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Let's build web3, together.&#x20;
 
 ## 💬 Community
 

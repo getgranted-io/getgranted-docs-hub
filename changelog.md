@@ -1,5 +1,10 @@
 # 🗃 Changelog
 
+v0.1.2-dev
+
+* removed kyb reference
+* removed personal twitter link
+
 v0.1.1-dev
 
 * Reformatted the Headers in the main Welcome to Granted README
