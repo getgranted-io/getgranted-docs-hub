@@ -64,6 +64,10 @@ You can communicate with the Granted support team using the following methods.
 
 This document and everything published in this repo is licensed [Apache 2](https://www.apache.org/licenses/LICENSE-2.0), unless otherwise noted.
 
+## 🔬 DYOR
+
+_**Important Reminder: Always Exercise Due Diligence!** The content related to projects presented on this site is not investment advice. We strongly encourage users to conduct thorough research and exercise caution when engaging with projects._
+
 ***
 
 👀 Still not able to find what you're looking for? 💌 Send us an [email](https://app.gitbook.com/u/ES88N8fea9WmEWPzzwX8JLy4fEv2)!

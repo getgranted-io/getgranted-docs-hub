@@ -4,7 +4,7 @@ description: >-
   whether SKALE Network is the right place to build with Granted.
 ---
 
-# 🐶 SKALE Network (SKL)
+# 🐬 SKALE Network (SKL)
 
 {% hint style="info" %}
 Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
@@ -32,9 +32,9 @@ SKALE Network has established several significant partnerships in the gaming sec
 4. **NFTb**: A new gaming platform launched on SKALE, focusing on efficiency, speed, and community engagement. It supports developers with tools and support to craft immersive gaming experiences【[4](https://skale.space/blog/leveling-up-the-web3-gaming-nftb-launches-new-gaming-platform-on-skale)】.
 5. **Nebula Gaming Hub**: This SKALE hub chain aggregates various gaming applications. Popular games on Nebula include 5TARS, Booja.World, CryptoCrusades, Gamifly, Meson.Fi, MotoDex, Mystrios, and STARZPLAY Fantasy Sports. The hub emphasizes zero gas fees, scalability, and seamless onboarding 【[5](https://skale.space/blog/navigating-the-skaleverse-exploring-the-nebula-gaming-hub)】.
 
-## Developer Program
+## Grant Program
 
-Granted has partnered with SKALE Network to provide Grant opportunities to builders. SKALE is looking to provide grants to projects working in the following spaces:
+Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects working in the following spaces:
 
 💸 DeFI
 

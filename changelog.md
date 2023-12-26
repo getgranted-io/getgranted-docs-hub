@@ -2,6 +2,7 @@
 
 v0.2.0-dev
 
+* Added Partnership: Aleph Zero
 * First Partnership Network added: SKALE
 * Fixed the title Skale -> SKALE
 
