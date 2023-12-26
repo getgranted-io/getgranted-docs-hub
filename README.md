@@ -12,33 +12,33 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## 👋 Welcome to the Granted Docs Hub
 
-We're Granted. We connect builders with funding and other resources. We carefully screen both builders and funders, employing standard KYC processes and offering comprehensive grant concierge services, so you can focus solely on your project's success.
+We're Granted. We connect builders with Grant Foundations and other resources. We carefully pre-qualify both builders and Foundations, employing standard KYC processes and offering comprehensive grant concierge services so you can focus solely on your project's success.
 
-🎯 Our mission is to expedite the web3 development and adoption to support the growth of web3.
+🎯 Our mission is to expedite Blockchain development and adoption to expedite Web3 growth.
 
-🫱🏾‍🫲🏼 We qualify all the builders and funders on both sides, and put through rigorous KYC process, and offer managed grant concierge services, so project teams only have to worry about delivering.&#x20;
+🫱🏾‍🫲🏼At Granted, we pre-qualify all of our potential clients, ensuring the highest quality candidates for foundations. When it comes to our application concierge services, projects only have one worry: **delivering.**
 
-🪢 We offer free access to our Fundraising Nexus platform to support centralized management of Grant application flow's from start to finish, including powerful centralized analytics. [Demo](https://www.youtube.com/watch?v=UvKgTTWHKnQ).
+🪢 Our Clients will gain access to the Fundraising Nexus, where they can manage and track their Grant application and access our affiliate area, where they can get preferential rates from the best service providers in the space. [Demo](https://www.youtube.com/watch?v=UvKgTTWHKnQ).
 
 ## 🛠️ Quickstart Guide
 
-Let's work together to connect more of the best builders to the highest quality sources of funding to drive web3 development and adoption globally!&#x20;
+Let’s work together to connect the best builders to the highest quality funding programs, accelerating Web3 development and adoption globally!!&#x20;
 
-Depending if you have a project seeking funding or have funds seeking projects to invest in, we recommend to explore our latest offerings.
+If you are a project seeking funding or a foundation seeking projects, we recommend you explore our service offerings below.
 
 ***
 
 ### 🤤 **Projects Seeking Funding**
 
-[**Apply**](https://www.getgranted.io/granted-application) for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation, blockchain integration assistance, and the Granted dashboard for efficient grant management.
+[**Apply**](https://www.getgranted.io/granted-application) for a grant and benefit from our streamlined pre-qualification process, tailored matching with grant suppliers, comprehensive proposal support, and proactive application tracking. Enjoy top-tier documentation consultation, blockchain integration assistance, and utilise the Fundraising Nexus for efficient grant management.
 
 ### 🏦 **Funding Seeking Projects**
 
-[Contact us](mailto:info@getgranted.io) today to **i**ntroduce yourself for a collaborative partnership. We pre-qualify funding sources to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Let's build web3, together.&#x20;
+[Contact us](mailto:info@getgranted.io) today to **i**ntroduce yourself for a strategic partnership. We pre-qualify all our clients to ensure quality and reduce your grant proposal review efforts, providing full support throughout the end-to-end grant process. Let's build web3, together.&#x20;
 
 ## 💬 Community
 
-Stay connected with our team and community.
+Please stay connected with our team and community.
 
 **📧 Email Us**: [info@getgranted.io](mailto:info@getgranted.io)&#x20;
 
@@ -50,7 +50,7 @@ Stay connected with our team and community.
 
 ## 👨🏿‍💻 Contribute
 
-If you find mistakes, omissions, errors, or blatant lies in this document, please let us know.
+Please let us know if you find mistakes, omissions, or errors in this document.
 
 Find the source code for this document [here](https://github.com/getgranted-io/granted-docs-hub).
 
@@ -66,4 +66,4 @@ This document and everything published in this repo is licensed [Apache 2](https
 
 ***
 
-👀 Still not able to find what you're looking for? 💌 Send us an [email](https://app.gitbook.com/u/ES88N8fea9WmEWPzzwX8JLy4fEv2)!
+👀 Still not able to find what you're looking for? 💌 Send us an [email](https://app.gitbook.com/u/ES88N8fea9WmEWPzzwX8JLy4fEv2).
