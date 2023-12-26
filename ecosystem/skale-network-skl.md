@@ -18,9 +18,9 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## Background
 
-The SKALE Network was founded in 2017 by Jack O'Holleran and Stan Kladko to address Ethereum's scalability, speed, and cost issues. It introduced a Layer 2 solution featuring elastic sidechains to enhance transaction throughput, reduce latency, and lower costs while ensuring security. SKALE has continuously evolved, focusing on interoperability and flexibility to cater to a wide range of industries. It's committed to supporting developers with a strong ecosystem and robust technology upgrades.
+The SKALE Network was founded in 2017 by Jack O'Holleran and Stan Kladko to address Ethereum's scalability, speed, and cost issues. It introduced a Layer 2 solution featuring elastic sidechains to enhance transaction throughput, reduce latency, and lower costs while ensuring security. SKALE has continuously evolved, focusing on interoperability and flexibility to cater to various industries. It's committed to supporting developers with a strong ecosystem and robust technology upgrades.
 
-**SKALE's Growth in Gaming and dApps** has helped it become the most active chain in Web3 gaming, according to CoinGecko's GameFi Report 2023 \[[0](https://www.coingecko.com/research/publications/gamefi-report-2023)]. The network has established partnerships with various gaming platforms and is facilitating a gas-free gaming revolution with its fast blockchain network.
+**SKALE's Growth in Gaming and dApps** has helped it become the most active chain in Web3 gaming, according to CoinGecko's GameFi Report 2023 \[[0](https://www.coingecko.com/research/publications/gamefi-report-2023)]. The network has established partnerships with various gaming platforms and facilitates a gas-free gaming revolution with its fast blockchain network.
 
 ## Ecosystem
 
@@ -31,8 +31,6 @@ SKALE Network has established several significant partnerships in the gaming sec
 3. **Gamifly & CricketFly**: A sports metaverse with its flagship product, CricketFly, live on SKALE. It's gained immense popularity in Southeast Asia with over two million downloads and 200,000 UAW in the past 30 days, processing over 2 million transactions 【[3](https://skale.space/blog/skale-q3-ecosystem-recap-the-biggest-period-of-growth-in-skales-history)】.
 4. **NFTb**: A new gaming platform launched on SKALE, focusing on efficiency, speed, and community engagement. It supports developers with tools and support to craft immersive gaming experiences【[4](https://skale.space/blog/leveling-up-the-web3-gaming-nftb-launches-new-gaming-platform-on-skale)】.
 5. **Nebula Gaming Hub**: This SKALE hub chain aggregates various gaming applications. Popular games on Nebula include 5TARS, Booja.World, CryptoCrusades, Gamifly, Meson.Fi, MotoDex, Mystrios, and STARZPLAY Fantasy Sports. The hub emphasizes zero gas fees, scalability, and seamless onboarding 【[5](https://skale.space/blog/navigating-the-skaleverse-exploring-the-nebula-gaming-hub)】.
-6. **Elements**: A partnership that combines SKALE's blockchain technology with Elements' infrastructure platform, catering to network-connected game developers. This collaboration aims to streamline the integration of Web3 features into games 【[6](https://skale.space/blog/skale-network-and-elements-partner-to-push-the-boundaries-of-blockchain-gaming-development-to-new-heights)】.
-7. **Bullieverse**: A Web3 gaming platform built on Unreal Engine, offering immersive experiences with the ability to earn NFT rewards. Bullieverse has sold out its mint of 10k NFTs and seen over 10,000,000 $BULL tokens used in trading on its native marketplace 【[7](https://skale.space/blog/skale-network-partners-with-bullieverse-unleashing-the-future-of-web3-gaming)】.
 
 ## Developer Program
 
@@ -40,31 +38,23 @@ Granted has partnered with SKALE Network to provide Grant opportunities to build
 
 💸 DeFI
 
-💠 High Frequency Trading / Events
-
-✍️ Derivatives
-
-🎩 Automated Market Makers (AMMs)
-
-📖 Central Limit Order Book
-
-🦾  AI
+🕹️ Gaming
 
 ## Tech Stack
 
-The SKALE Network is a sophisticated blockchain platform designed to enhance the scalability and functionality of Ethereum and other blockchains. A breakdown of its core components include:
+SKALE Network is a sophisticated blockchain platform designed to enhance the scalability and functionality of Ethereum and other blockchains. A breakdown of its core components includes:
 
-1. **Elastic Sidechains**: These are configurable blockchains that work alongside the main Ethereum chain. They allow developers to run decentralized applications (dApps) more efficiently by improving scalability, reducing latency, and lowering transaction costs. Each elastic sidechain can be thought of as a separate blockchain with its own consensus mechanism, which is fully compatible with Ethereum.
-2. **SKALE Manager**: This is the main contract that operates on the Ethereum mainnet and coordinates between all the SKALE nodes and sidechains. It handles tasks like node registration, random node selection for chains, token operations, and more, essentially acting as the "brain" of the SKALE Network.
-3. **Consensus Mechanism**: SKALE uses a variant of the Practical Byzantine Fault Tolerance (PBFT) consensus combined with an asynchronous binary Byzantine agreement to secure its network. This helps in achieving high throughput and low-latency block times while ensuring the security and integrity of the network.
+1. **Elastic Sidechains**: Configurable blockchains that work alongside the main Ethereum chain. They allow developers to run decentralized applications (dApps) more efficiently by improving scalability, reducing latency, and lowering transaction costs. Each elastic sidechain can be considered a separate blockchain with its consensus mechanism, which is fully compatible with Ethereum.
+2. **SKALE Manager**: This contract operates on the Ethereum mainnet and coordinates between all the SKALE nodes and sidechains. It handles tasks like node registration, random node selection for chains, token operations, and more, essentially acting as the "brain" of the SKALE Network.
+3. **Consensus Mechanism**: SKALE uses a variant of the Practical Byzantine Fault Tolerance (PBFT) consensus combined with an asynchronous binary Byzantine agreement to secure its network. This helps achieve high throughput and low-latency block times while ensuring the security and integrity of the network.
 4. **Metaport**: Metaport 2.0 is an update to the UI layer of the IMA (Interchain Messaging Agent) Bridge. It streamlines the account connection process using RainbowKit and facilitates multichain transfers, allowing for a more seamless user experience and efficient interaction between different chains. \[[8](https://skale.space/blog/skale-q3-2023-engineering-update)]
 5. **Levitation Protocol**: Introduced in 2023, the Levitation Protocol is an open-source solution aiming to enhance the network with flexible and configurable zero-knowledge (ZK) scaling solutions. It includes the addition of a new Layer 1 blockchain called SKALE G, fortified by ZK Rollups. This protocol allows for seamless integration of various ZK proofs into the SKALE architecture, offering increased flexibility for developers and applications within the SKALE app-chain network. \[[9](https://blog.stakin.com/skales-impact-on-the-future-of-blockchain-and-web3/)]
 6. **Zero-Knowledge Proofs (ZK Proofs)**: ZK Proofs are a form of cryptographic proof that allows one party to prove to another that a statement is true without revealing any information beyond the validity of the statement itself. SKALE's implementation of ZK proofs, especially within the Levitation Protocol, aims to enhance privacy and scalability across its network.
-7. **SKALE Daemon**: This software runs on each node in the SKALE Network and is responsible for managing containers, sChains, and various other network functions. It helps ensure the smooth operation and communication of the individual nodes that power the network.
+7. **SKALE Daemon**: This software runs on each node in the SKALE Network and manages containers, sChains, and various other network functions. It helps ensure the smooth operation and communication of the individual nodes that power the network.
 8. **Node Core**: Each node in the SKALE Network runs the Node Core software, which includes the SKALE Daemon, consensus implementation, and other essential components. These nodes work together to provide the computational resources needed to support the elastic sidechains.
 9. **Interchain Messaging Agent (IMA)**: IMA enables the direct transfer of messages, tokens, and states between SKALE Chains and the Ethereum mainnet. This interoperability feature is crucial for seamless operation and integration with the broader Ethereum ecosystem.
 
-These components work together to provide a layered, configurable, and efficient environment for developers to build and deploy scalable dApps. The SKALE Network continues to evolve, with ongoing updates and improvements aimed at enhancing its performance, usability, and functionality in the blockchain ecosystem. Below, we’ll take a look at what’s in the pipeline for SKALE.
+These components work together to provide a layered, configurable, and efficient environment for developers to build and deploy scalable dApps. The SKALE Network continues to evolve, with ongoing updates and improvements to enhance its performance, usability, and functionality in the blockchain ecosystem. Below, we’ll take a look at what’s in the pipeline for SKALE.
 
 ## Roadmap
 
@@ -80,11 +70,11 @@ These components work together to provide a layered, configurable, and efficient
 
 ## **Community**
 
-The development and deployment of the Levitation Protocol and other core components of SKALE network are governed by the SKALE community, including developers, stakers, and other community members. The final push to live production will require a successful on-chain voting【[14](https://skale.space/blog/introducing-the-levitation-protocol-skales-solution-for-decentralized-zero-knowledge-proofs)】.
+The development and deployment of the Levitation Protocol and other core components of SKALE network are governed by the SKALE community, including developers, stakers, and other community members. The final push to live production will require a successful on-chain voting.
 
 For more information and to engage with the SKALE community, you can visit the following resources:
 
-**SKALE**
+**SKALE:**
 
 * **Website**: [SKALE Network](https://skale.network/)
 * **Documentation**: [SKALE Docs](https://docs.skale.network/)
