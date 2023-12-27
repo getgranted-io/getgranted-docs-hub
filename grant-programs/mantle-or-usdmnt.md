@@ -18,7 +18,7 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## ⌚️ Background
 
-Mantle Network, an EVM-compatible L2 scaling solution, utilizes Optimistic rollups for cost-effective and fast transactions. Its mainnet (Alpha) launched on July 17, 2023, introducing a novel, modular architecture that blends optimistic rollups with state-of-the-art data availability. This architecture is designed to offer lower costs and high throughput while maintaining shared security with the Ethereum Mainnet.&#x20;
+Mantle Network (Alpha) launched on July 17, 2023, introducing a novel, modular architecture that blends optimistic rollups with state-of-the-art data availability. This architecture is designed to offer lower costs and high throughput while maintaining shared security with the Ethereum Mainnet.&#x20;
 
 The launch follows a six-month testnet phase starting January 10, 2023, marked by over 14 million on-chain transactions, more than 140,000 smart contracts deployment, engagement with over 48,000 developers, and connections to upwards of 690,000 unique wallet addresses. The testnet showcased Mantle's stable and efficient modular tech stack and the integration of Mantle DA, its data availability solution powered by EigenDA technology. The network also underwent several security audits and plans to release the reports and a detailed technology roadmap shortly.
 

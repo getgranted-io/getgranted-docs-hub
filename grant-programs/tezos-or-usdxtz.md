@@ -18,7 +18,7 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## ⌚️ Background
 
-Tezos is an OG open-source blockchain developed around the concept of self-amendment, allowing token holders to vote on protocol upgrades. Development began in 2014, with the Tezos Foundation funding research and development from a $232 million ICO in 2017. Tezos operates on a proof-of-stake model, reducing energy consumption compared to proof-of-work systems. Its applications span NFTs, DeFi, DAOs, and gaming. The native token, XTZ, is stored in multiple wallets, with holders participating in governance votes.
+Tezos was developed around the concept of self-amendment, allowing token holders to vote on protocol upgrades. Development began in 2014, with the Tezos Foundation funding research and development from a $232 million ICO in 2017. Tezos operates on a proof-of-stake model, reducing energy consumption compared to proof-of-work systems. Its applications span NFTs, DeFi, DAOs, and gaming. The native token, XTZ, is stored in multiple wallets, with holders participating in governance votes.
 
 {% embed url="https://www.coingecko.com/en/coins/tezos" %}
 

@@ -18,7 +18,7 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## ⌚️ Background
 
-Moonbeam, a smart contract platform developed by PureStake under Derek Yoo's guidance, is designed to bolster interoperability between Ethereum and Polkadot. It enables developers to seamlessly deploy existing Solidity smart contracts and dApp frontends within a Polkadot parachain environment, while its companion network, Moonriver, underscores the platform's dedication to robust, tested deployments. The launch of its native token, GLMR, in January 2022, akin to Ethereum's ETH but tailored for the Polkadot ecosystem, marked a significant step towards Moonbeam's goal of fostering a unified, efficient blockchain landscape.
+Moonbeam was developed by PureStake under Derek Yoo's guidance, designed to bolster interoperability between Ethereum and Polkadot. It enables developers to seamlessly deploy existing Solidity smart contracts and dApp frontends within a Polkadot parachain environment, while its companion network, Moonriver, underscores the platform's dedication to robust, tested deployments. The launch of its native token, GLMR, in January 2022, akin to Ethereum's ETH but tailored for the Polkadot ecosystem, marked a significant step towards Moonbeam's goal of fostering a unified, efficient blockchain landscape.
 
 {% embed url="https://www.coingecko.com/en/coins/moonbeam" %}
 
