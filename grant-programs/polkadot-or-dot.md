@@ -2,6 +2,8 @@
 description: >-
   This document contains comprehensive information for project teams to know
   whether Polkadot is the right place to build with Granted.
+cover: ../.gitbook/assets/polkadot-logo-full (1).png
+coverY: 0
 ---
 
 # 🦕 Polkadot | DOT
@@ -44,21 +46,11 @@ Polkadot’s ecosystem is rich and diverse, enabling: 🪪 Non-fungible tokens (
 
 ## 🪙 Grant Program&#x20;
 
-The Web3 Foundation partnered with Granted to actively promote ecosystem growth through grants focusing on innovative, open-source projects that enhance the Polkadot network’s interoperability and functionality. The program curators are keenly interested in projects of all types, but are keen to address the following problem spaces in particular:
+The Web3 Foundation partnered with Granted to actively promote ecosystem growth through grants focusing on innovative, open-source projects that enhance the Polkadot network’s interoperability and functionality.&#x20;
 
-**LSDFi:** LSDFi is a sector within decentralized finance that leverages Liquid Staking Derivatives (LSDs) to offer enhanced liquidity and yield opportunities for staked assets. It capitalizes on the flexibility of LSDs to provide users with options for borrowing, speculation, hedging, and more, thereby broadening the utility and attractiveness of staking in the DeFi ecosystem. [**Learn more**](https://coinmarketcap.com/academy/article/what-is-lsdfi-overview-of-lsdfi-protocols)**.**&#x20;
+🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and Polkadot strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
-**Client-side Development:** Focuses on creating user-facing applications and interfaces that interact with blockchain technology for an improved user experience.
-
-**Smart Contracts:** Involves creating self-executing contracts with the terms directly written into code, enabling trustless and automated agreements on the blockchain.
-
-**Protocol Development:** Centers on developing and enhancing the underlying protocols and algorithms that form the backbone of blockchain networks, ensuring security, efficiency, and scalability.
-
-**Development Networks & Node Management:** Concerns the creation and maintenance of networks and nodes that support the blockchain infrastructure, ensuring robustness and reliability.
-
-**Tooling:** Involves developing tools and utilities that aid developers in building, testing, and deploying blockchain applications more efficiently.
-
-**Cryptographic Research and Development:** Focuses on advancing the security and efficiency of blockchain systems through innovative cryptographic techniques, including encryption, consensus algorithms, and privacy-preserving technologies.
+The program curators are keenly interested in projects of all types, but are keen to address the **LSDFi** problem space in particular. LSDFi is a sector within decentralized finance that leverages Liquid Staking Derivatives (LSDs) to offer enhanced liquidity and yield opportunities for staked assets. It capitalizes on the flexibility of LSDs to provide users with options for borrowing, speculation, hedging, and more, thereby broadening the utility and attractiveness of staking in the DeFi ecosystem. [**Learn more**](https://coinmarketcap.com/academy/article/what-is-lsdfi-overview-of-lsdfi-protocols)**.**&#x20;
 
 ## 🧱 Tech Stack
 
@@ -71,8 +63,6 @@ Polkadot's sophisticated tech stack is designed for flexibility, security, and i
 **Nominated Proof of Stake (NPoS) Consensus:** Unlike traditional proof-of-work systems, Polkadot's NPoS consensus mechanism is energy-efficient and enables users to secure the network by staking DOT tokens. Validators are selected based on the amount of DOT staked and their reputation, ensuring network integrity and reducing the risk of malicious activities.
 
 **ink! 4.0 for Smart Contract Development:** ink! 4.0 is the latest iteration of Polkadot's smart contract language, designed specifically for the Substrate and Polkadot ecosystems. It's a Rust-based eDSL (embedded Domain Specific Language) that enables developers to write Wasm (WebAssembly) smart contracts efficiently and securely. The 4.0 version of ink! brings better storage management, syntax improvements, and more.
-
-**Support for Diverse Digital Assets and Smart Contracts:** Polkadot supports a wide array of digital assets, including tokens, NFTs, and other data types. Its multi-chain structure allows for the creation of specialized parachains, each with its own unique features and smart contracts. This enables developers to build tailored solutions that meet specific needs while benefiting from the security and interoperability of the Polkadot network.
 
 **On-chain Governance with an Adaptable Upgrade Mechanism:** Polkadot's governance model is transparent and inclusive, allowing token holders to have a say in the network's future through proposals and referenda. The adaptive upgrade mechanism enables the network to upgrade and incorporate new features without forking, reducing disruption and enhancing the platform's ability to evolve.
 
@@ -114,19 +104,13 @@ A global network of developers, validators, and users from the Polkadot communit
 
 For more information and to engage with the Polkadot community, visit:
 
-**Website:** [Polkadot | Home](https://polkadot.network/)
-
-**Documentation:** [Polkadot Wiki](https://wiki.polkadot.network/)
-
-**Github:** [Polkadot on GitHub](https://github.com/paritytech/polkadot)
-
-**Community Forum:** [Polkadot Watercooler](https://element.io/)
-
-**Blog:** [Polkadot Medium](https://medium.com/polkadot-network)
-
-**Twitter:** [@polkadot](https://twitter.com/polkadot)
-
-**LinkedIn:** [@polkadot](https://www.linkedin.com/company/polkadot-network/)
+* **Website:** [Polkadot | Home](https://polkadot.network/)
+* **Documentation:** [Polkadot Wiki](https://wiki.polkadot.network/)
+* **Github:** [Polkadot on GitHub](https://github.com/paritytech/polkadot)
+* **Community Forum:** [Polkadot Watercooler](https://element.io/)
+* **Blog:** [Polkadot Medium](https://medium.com/polkadot-network)
+* **Twitter:** [@polkadot](https://twitter.com/polkadot)
+* **LinkedIn:** [@polkadot](https://www.linkedin.com/company/polkadot-network/)
 
 ## 📚 Resources
 

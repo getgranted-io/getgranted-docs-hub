@@ -2,6 +2,8 @@
 description: >-
   This document contains comprehensive information for project teams to know
   whether Mantle is the right place to build with Granted.
+cover: ../.gitbook/assets/Mantle-Network-logo-full (1).png
+coverY: 0
 ---
 
 # 🐩 Mantle | $MNT
@@ -36,7 +38,7 @@ Mantle Network's platform serves various purposes, including:
 
 Mantle Network has introduced the Mantle Grants Program, aiming to support the development and launch of innovative user applications and games. The program prioritizes projects that showcase potential as flagship applications on Mantle Network, particularly those aligned with open-source principles.&#x20;
 
-📚 Check the resource section below for additional information about network priorities.
+🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and Mantle strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
 ## 🧱 Tech Stack
 
@@ -78,7 +80,7 @@ Mantle Network emphasizes the importance of community involvement in shaping its
 
 **Blog:** [The Mantle Network Blog](https://www.mantle.xyz/blog)
 
-**Social Media:** Twitter, Linked-in (Specific links N/A)
+**Social Media:** [Twitter](https://twitter.com/0xMantle), [Linked-in](https://www.linkedin.com/company/0xmantle/)
 
 _Stay tuned, as this is a growing space. We'll be exploring more use-cases with this project soon!_
 

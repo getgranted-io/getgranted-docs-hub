@@ -2,6 +2,8 @@
 description: >-
   This document contains comprehensive information for project teams to know
   whether SKALE is the right place to build with Granted.
+cover: ../.gitbook/assets/sakle-logo-full.png
+coverY: 0
 ---
 
 # 🐬 SKALE | $SKL
@@ -38,7 +40,9 @@ SKALE Network has established several significant partnerships in the gaming sec
 
 ## 🪙 Grant Program
 
-Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects working in the following spaces: 💸 DeFI, 🕹️ Gaming
+Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects working in the following spaces: 💸 DeFI, 🕹️ Gaming.
+
+🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and SKALE strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
 ## 🧱 Tech Stack
 
@@ -49,8 +53,6 @@ SKALE Network is a sophisticated blockchain platform designed to enhance the sca
 **SKALE Manager**: This contract operates on the Ethereum mainnet and coordinates between all the SKALE nodes and sidechains. It handles tasks like node registration, random node selection for chains, token operations, and more, essentially acting as the "brain" of the SKALE Network.
 
 **Consensus Mechanism**: SKALE uses a variant of the Practical Byzantine Fault Tolerance (PBFT) consensus combined with an asynchronous binary Byzantine agreement to secure its network. This helps achieve high throughput and low-latency block times while ensuring the security and integrity of the network.
-
-**Metaport**: Metaport 2.0 is an update to the UI layer of the IMA (Interchain Messaging Agent) Bridge. It streamlines the account connection process using RainbowKit and facilitates multichain transfers, allowing for a more seamless user experience and efficient interaction between different chains. \[[8](https://skale.space/blog/skale-q3-2023-engineering-update)]
 
 **Levitation Protocol**: Introduced in 2023, the Levitation Protocol is an open-source solution aiming to enhance the network with flexible and configurable zero-knowledge (ZK) scaling solutions. It includes the addition of a new Layer 1 blockchain called SKALE G, fortified by ZK Rollups. This protocol allows for seamless integration of various ZK proofs into the SKALE architecture, offering increased flexibility for developers and applications within the SKALE app-chain network. \[[9](https://blog.stakin.com/skales-impact-on-the-future-of-blockchain-and-web3/)]
 
@@ -68,9 +70,9 @@ These components work together to provide a layered, configurable, and efficient
 
 SKALE’s next release (v2.3) will focus on updating compatibility with the EVM JSON-RPC API, improving validator services, and expanding transaction broadcasting capabilities. This release aims to provide more streamlined development and deployment processes for developers.
 
-**Metaport 2.0:** A major update to the user interface layer of the IMA Bridge, Metaport 2.0, has been released. It incorporates RainbowKit for a more unified account connection procedure and facilitates multichain transfers. The update also brings technical refinements and a sleeker user interface, enhancing overall usability.
+**Metaport 2.0:** A major update to the user interface layer of the IMA Bridge, Metaport 2.0, has been released. It incorporates RainbowKit for a more unified account connection procedure and facilitates multichain transfers. The update also brings technical refinements and a sleeker user interface, enhancing overall usability. It streamlines the account connection process using RainbowKit and facilitates multichain transfers, allowing for a more seamless user experience and efficient interaction between different chains. \[[8](https://skale.space/blog/skale-q3-2023-engineering-update)]
 
-**The Levitation Protocol:** The SKALE Network's Levitation Protocol represents an ambitious step forward in the blockchain's scalability and security. The Levitation Protocol roadmap for 2024 includes:
+**The Levitation Protocol:** The Levitation Protocol roadmap for 2024 includes:
 
 * **SKALE G (Ganymede)**: Introduction of SKALE G, a fast and scalable decentralized Layer 1 blockchain featuring L2 Zero-Knowledge (ZK) hooks back to Ethereum, allowing developers to utilize cutting-edge technology while maintaining a connection to the Ethereum network.
 * **Decentralization and Interoperability**: Unlike current centralized ZK protocols, Levitation will implement a decentralized sequencer as a set of smart contracts on a SKALE Chain, enabling different ZKRs to interact seamlessly and run in a common environment, thus providing a common ledger of transactions and facilitating the interaction of rollups.
@@ -82,11 +84,9 @@ The development and deployment of the Levitation Protocol and other core compone
 
 For more information and to engage with the SKALE community, you can visit the following resources:
 
-**Website**: [SKALE Network](https://skale.network/)
-
-**Social Media:** [Twitter](https://twitter.com/SkaleNetwork), [GitHub](https://github.com/skalenetwork)
-
-**Forum:** [Mantle Network](https://forum.mantlelsp.io)
+* **Website**: [SKALE Network](https://skale.network/)
+* **Social Media:** [Twitter](https://twitter.com/SkaleNetwork), [GitHub](https://github.com/skalenetwork)
+* **Forum:** [Mantle Network](https://forum.mantlelsp.io)
 
 _Stay tuned, as this is a growing space. We'll be exploring more use-cases with this project soon!_
 

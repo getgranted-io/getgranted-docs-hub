@@ -2,17 +2,19 @@
 description: >-
   This document contains comprehensive information for project teams to know
   whether MoonBeam is the right place to build with Granted.
+cover: ../.gitbook/assets/moonbeam-logo-full (2).png
+coverY: 26.330097087378643
 ---
 
 # 🦬 MoonBeam | $GLMR
 
 ## MoonBeam | $GLMR
 
+**Moonbeam** is an Ethereum-compatible smart contract platform on Polkadot, focusing on interoperability and ease of development for multi-chain applications.
+
 {% hint style="info" %}
 Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
 {% endhint %}
-
-**Moonbeam** is an Ethereum-compatible smart contract platform on Polkadot, focusing on interoperability and ease of development for multi-chain applications.
 
 ## ⌚️ Background
 
@@ -24,7 +26,7 @@ Moonbeam, a smart contract platform developed by PureStake under Derek Yoo's gui
 
 Moonbeam's ecosystem includes various use cases primarily due to its Ethereum compatibility and connections within the Polkadot network. These include decentralized finance (DeFi), cross-chain interoperability, decentralized applications (dApps) deployment, smart contract development, and more. Its multi-chain approach allows for the seamless integration of various tools and applications, fostering a diverse range of functionalities and services.&#x20;
 
-The following serves as a snapshop of Moonbeam's ecosystem across several Web3 categories:
+The following serves as a snapshot of Moonbeam's ecosystem across several Web3 categories:
 
 **Cross-chain Connectivity**: Enhances interoperability between blockchains like [Ethereum, Cosmos, and Avalanche](https://moonbeam.network/).
 
@@ -32,11 +34,13 @@ The following serves as a snapshop of Moonbeam's ecosystem across several Web3 c
 
 **Real World Assets (RWA)**: Advances on-chain tokenization through partnerships like [Centrifuge](https://centrifuge.io/) and [Transfero](https://transfero.com/), boosting asset accessibility and liquidity.
 
-**Emerging Markets**: Focuses on regions like Brazil, supporting tailored solutions to foster regional crypto innovation and broader Web3 adoption.
+**Emerging Markets**: Focuses on regions like [Brazil](https://moonbeam.network/announcements/grupo-rao-dux-web3-loyalty-program-moonbeam-launch/), supporting tailored solutions to foster regional crypto innovation and broader Web3 adoption.&#x20;
 
 ## 🪙 Grant Program
 
 Moonbeam has launched the Moonbeam Grants Program, designed to foster the growth and development of distinctive applications and projects within its ecosystem. The program focuses on initiatives that demonstrate promise as key contributors to the Moonbeam platform, especially those that embrace and enhance its cross-chain interoperability and open-source ethos.
+
+🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and MoonBeam strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
 ## 🧱 Tech Stack
 
@@ -60,17 +64,12 @@ In 2023, Moonbeam announced several significant integrations and functionalities
 
 Moonbeam's community plays a vital role in its development and governance. The platform offers various resources and channels for users to engage, contribute, and stay informed:
 
-**Website:** [Moonbeam Official Site](https://moonbeam.network/)
-
-**Documentation:** [Moonbeam Documentation](https://docs.moonbeam.network/)
-
-**Github:** [Moonbeam GitHub](https://github.com/PureStake/moonbeam)
-
-**Community Forum:** [Moonbeam Forum](https://forum.moonbeam.network/)
-
-**Blog:** [Moonbeam Blog](https://moonbeam.network/blog/)
-
-**Social Media:** Twitter, LinkedIn
+* **Website:** [Moonbeam Official Site](https://moonbeam.network/)
+* **Documentation:** [Moonbeam Documentation](https://docs.moonbeam.network/)
+* **Github:** [Moonbeam GitHub](https://github.com/PureStake/moonbeam)
+* **Community Forum:** [Moonbeam Forum](https://forum.moonbeam.network/)
+* **Blog:** [Moonbeam Blog](https://moonbeam.network/blog/)
+* **Social Media:** [Twitter](https://twitter.com/moonbeamnetwork), [LinkedIn](https://www.linkedin.com/company/moonbeam-network/)
 
 ## 📚 Resources
 

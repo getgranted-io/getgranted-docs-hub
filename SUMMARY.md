@@ -18,3 +18,4 @@
   * [☎ Contact Us](support/contact-us.md)
   * [🤚 FAQ](support/faq.md)
 * [🗃 Changelog](changelog.md)
+* [🔖 Glossary](glossary.md)

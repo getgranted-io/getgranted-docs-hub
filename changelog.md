@@ -2,6 +2,7 @@
 
 v0.2.0-dev
 
+* Partner cover images added
 * Added Grant Program Partnership: Aleph Zero, Mantle, Tezos, Polkadot, MoonBeam
 * First Partnership Network added: SKALE
 * Fixed the title Skale -> SKALE
