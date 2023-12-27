@@ -6,7 +6,7 @@
   * [🗝 The Granted Team](welcome-to-granted/the-granted-team.md)
   * [👨🚀 Getting Started](welcome-to-granted/getting-started.md)
 * [✨ Granted Programs](granted-programs/README.md)
-  * [🐕🦺 Aleph Zero | $AZERO](granted-programs/aleph-zero-or-usdazero.md)
+  * [🐕🦺 Aleph Zero | $AZERO](grant-programs/aleph-zero-or-usdazero.md)
   * [🐩 Mantle | $MNT](granted-programs/mantle-or-usdmnt.md)
   * [🦬 MoonBeam | $GLMR](granted-programs/moonbeam-or-usdglmr.md)
   * [🦕 Polkadot | DOT](granted-programs/polkadot-or-dot.md)
