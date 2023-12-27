@@ -10,7 +10,7 @@ coverY: 0
 Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
 {% endhint %}
 
-## 👋 Welcome to the Granted Docs Hub
+## 👋 Welcome!
 
 We're Granted. We connect builders with Grant Foundations and other resources. We carefully pre-qualify both builders and Foundations, employing standard KYC processes and offering comprehensive grant concierge services so you can focus solely on your project's success.
 
@@ -25,8 +25,6 @@ We're Granted. We connect builders with Grant Foundations and other resources. W
 Let’s work together to connect the best builders to the highest quality funding programs, accelerating Web3 development and adoption globally!!&#x20;
 
 If you are a project seeking funding or a foundation seeking projects, we recommend you explore our service offerings below.
-
-***
 
 ### 👀 **Projects Seeking Funding**
 
