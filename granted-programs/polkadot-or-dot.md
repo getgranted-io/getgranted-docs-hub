@@ -18,13 +18,13 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## ⌚️ Background&#x20;
 
-**Polkadot** is a prominent multi-chain blockchain protocol engineered for scalability and interoperability. Initiated in 2016 by Web3 Foundation and Parity Technologies, it launched with a successful $145 million ICO in 2017. Polkadot employs a nominated proof-of-stake (NPoS) consensus, optimizing efficiency and security. The ecosystem supports various applications, including NFTs, DeFi, DAOs, and gaming. The native token, DOT, facilitates governance, staking, and bonding within the network.&#x20;
+**Polkadot** is a prominent multi-chain blockchain protocol engineered for scalability and interoperability. Initiated in 2016 by Web3 Foundation and Parity Technologies, it launched with a successful $145 million ICO in 2017. Polkadot employs a nominated proof-of-stake (NPoS) consensus, optimizing efficiency and security. The ecosystem supports various applications, including NFTs, DeFi, DAOs and Gaming. The native token, DOT, facilitates network governance, staking, and bonding.&#x20;
 
 {% embed url="https://www.coingecko.com/en/coins/polkadot" %}
 
 ## 🗺️ Ecosystem&#x20;
 
-Polkadot’s ecosystem is rich and diverse, enabling: 🪪 Non-fungible tokens (NFTs), 💸 Decentralized finance (DeFi), 🏦 Banking, ䷬ Decentralized autonomous organizations (DAOs), 🆔 Decentralized identifiers (DIDs), 🎮 Gaming. Here are examples for five categories, each with links for further exploration:
+Polkadot’s ecosystem is rich and diverse, enabling Non-fungible tokens (NFTs),  Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs),  Decentralized identifiers (DIDs), and Gaming. Here are examples for five categories, each with links for further exploration:
 
 ### **NFTs**
 
@@ -44,13 +44,11 @@ Polkadot’s ecosystem is rich and diverse, enabling: 🪪 Non-fungible tokens (
 
 [**Bitgreen**](https://bitgreen.org)**:** Focuses on sustainability and green technology, building a marketplace for carbon credits.&#x20;
 
-## 🪙 Grant Program&#x20;
+## 🪙 The Polkadot Treasury
 
-The Web3 Foundation partnered with Granted to actively promote ecosystem growth through grants focusing on innovative, open-source projects that enhance the Polkadot network’s interoperability and functionality.&#x20;
-
-🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and Polkadot strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
-
-The program curators are keenly interested in projects of all types, but are keen to address the **LSDFi** problem space in particular. LSDFi is a sector within decentralized finance that leverages Liquid Staking Derivatives (LSDs) to offer enhanced liquidity and yield opportunities for staked assets. It capitalizes on the flexibility of LSDs to provide users with options for borrowing, speculation, hedging, and more, thereby broadening the utility and attractiveness of staking in the DeFi ecosystem. [**Learn more**](https://coinmarketcap.com/academy/article/what-is-lsdfi-overview-of-lsdfi-protocols)**.**&#x20;
+Granted is working with the Polkadot Community to actively promote ecosystem growth through grants focusing on innovative, open-source projects that enhance the Polkadot network’s interoperability and functionality. Granted strongly encourages all projects contributing to the growth of the Polkadot ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. The program curators are keenly interested in projects of all types but are keen to address the **LSDFi** problem space in particular. LSDFi is a sector within decentralized finance that leverages Liquid Staking Derivatives (LSDs) to offer enhanced liquidity and yield opportunities for staked assets. It capitalizes on the flexibility of LSDs to provide users with options for borrowing, speculation, hedging, and more, thereby broadening the utility and attractiveness of staking in the DeFi ecosystem. [**Learn more**](https://coinmarketcap.com/academy/article/what-is-lsdfi-overview-of-lsdfi-protocols)**.** \
+\
+🪧 [Apply Here! ](https://www.getgranted.io/granted-application)
 
 ## 🧱 Tech Stack
 
@@ -58,7 +56,7 @@ Polkadot's sophisticated tech stack is designed for flexibility, security, and i
 
 **Rust, JavaScript, Solidity:** The Substrate framework is primarily written in Rust. JavaScript is widely used for building user interfaces and interacting with the Polkadot API, making the platform accessible to a broader developer community. Solidity, a language used for Ethereum smart contracts, can also be utilized through compatibility layers, ensuring developers can easily migrate or create decentralized applications (dApps).
 
-**Substrate Framework:** Substrate is the backbone of Polkadot's technology, providing a rich set of tools and libraries for building blockchains. It offers flexibility in terms of consensus mechanisms, data storage, and governance, and it's designed to be future-proof, with the ability to adapt and upgrade as technology evolves. Substrate's modular design allows developers to create custom blockchains tailored to specific use cases, making it a powerful tool for innovation.
+**regardingSubstrate Framework:** Substrate is the backbone of Polkadot's technology, providing a rich set of tools and libraries for building blockchains. It offers flexibility in terms of consensus mechanisms, data storage, and governance, and it's designed to be future-proof, with the ability to adapt and upgrade as technology evolves. Substrate's modular design allows developers to create custom blockchains tailored to specific use cases, making it a powerful tool for innovation.
 
 **Nominated Proof of Stake (NPoS) Consensus:** Unlike traditional proof-of-work systems, Polkadot's NPoS consensus mechanism is energy-efficient and enables users to secure the network by staking DOT tokens. Validators are selected based on the amount of DOT staked and their reputation, ensuring network integrity and reducing the risk of malicious activities.
 
@@ -68,15 +66,15 @@ Polkadot's sophisticated tech stack is designed for flexibility, security, and i
 
 **Interoperability via Cross-chain Communication:** At the heart of Polkadot's design is its ability to enable different blockchains to communicate and share information securely. Through cross-chain message passing (XCMP) and bridges, Polkadot allows various blockchains to transfer tokens and data, opening up a world of collaborative possibilities and ensuring that networks can work together seamlessly.
 
-**Formal Verification Methods for Security and Reliability:** Polkadot emphasizes the importance of security and reliability, incorporating formal verification methods into its design. This approach uses mathematical proofs to verify the correctness of the code, significantly reducing the risk of bugs and vulnerabilities. By ensuring that smart contracts and system components behave exactly as intended, Polkadot provides a robust and trustworthy foundation for building and deploying applications.
+**Formal Verification Methods for Security and Reliability:** Polkadot emphasizes the importance of security and reliability, incorporating formal verification methods into its design. This approach uses mathematical proofs to verify the correctness of the code, significantly reducing the risk of bugs and vulnerabilities. Polkadot provides a robust and trustworthy foundation for building and deploying applications by ensuring that smart contracts and system components behave exactly as intended.
 
-**Robust Testnet Environment:** Polkadot provides developers with a robust testnet environment, known as Rococo, which serves as a proving ground for new features, parachains, and upgrades before they are deployed on the mainnet. Rococo allows developers to test their blockchains and applications in a real-world environment, ensuring compatibility and stability. This testnet plays a crucial role in the Polkadot ecosystem, allowing for experimentation, testing of governance procedures, and network upgrades, ensuring that only the most robust and well-tested features make it to the live network. It's an essential tool for developers looking to build and refine their projects with confidence.
+**Robust Testnet Environment:** Polkadot provides developers with a robust testnet environment, known as Rococo, which serves as a proving ground for new features, parachains, and upgrades before they are deployed on the mainnet. Rococo allows developers to test their blockchains and applications in a real-world environment, ensuring compatibility and stability. This testnet plays a crucial role in the Polkadot ecosystem, allowing for experimentation, testing of governance procedures, and network upgrades, ensuring that only the most robust and well-tested features make it to the live network. It's an essential tool for developers looking to build and refine their projects confidently.
 
 Together, these elements form a powerful and adaptable tech stack, making Polkadot an attractive platform for developers looking to build the next generation of decentralized applications.
 
 ## 🛣️ Roadmap&#x20;
 
-Polkadot's roadmap indicates a commitment to significant operational changes, enhancing scalability with features like XCM V3, OpenGov, system parachains, asynchronous backing, and parathreads. Recent developments include technical upgrades, and the deployment of new parachains like Energy Web, Bit. Country, peaq, Nodle, and InvArch Network, and the testing of Polkadot Collectives and a Polkadot-Kusama bridge for improved interoperability and network scalability. Learn more in the recent [Polkadot ](https://polkadot.network/blog/polkadot-update-q1-2023/)[Q1 2023](https://polkadot.network/blog/polkadot-update-q1-2023/) [Update](https://polkadot.network/blog/polkadot-update-q1-2023/).
+Polkadot's roadmap indicates a commitment to significant operational changes, enhancing scalability with features like XCM V3, OpenGov, system parachains, asynchronous backing, and parathreads. Recent developments include technical upgrades and the deployment of new Parachains like Energy Web, Bit, Country, peaq, Nodle, and InvArch Network, and the testing of Polkadot Collectives and a Polkadot-Kusama bridge for improved interoperability and network scalability. Learn more in the recent [Polkadot ](https://polkadot.network/blog/polkadot-update-q1-2023/)[Q1 2023](https://polkadot.network/blog/polkadot-update-q1-2023/) [Update](https://polkadot.network/blog/polkadot-update-q1-2023/).
 
 The Polkadot technical roadmap for 2023 and 2024 focuses on enhancing scalability, developer experience, and network security with key updates:
 
@@ -92,7 +90,7 @@ The Polkadot technical roadmap for 2023 and 2024 focuses on enhancing scalabilit
 
 **Bridge Hub**: Focuses on developing a message routing service within each network to enhance the connectivity and interoperability of Polkadot with other chains like Kusama.
 
-**Nomination Pools & Fast Unstake**: Expands the reach of the staking system to more users and introduces a feature to quickly migrate nominators not earning rewards to nomination pools.
+**Nomination Pools & Fast Unstake**: Expands the reach of the staking system to more users and introduces a feature **t**o migrate nominators not earning rewards to nomination pools quickly.
 
 **Staking Dashboard**: Aims to make staking more accessible with a user-friendly interface, leveraging light-client technology for secure and decentralized interactions.
 
@@ -100,7 +98,7 @@ The Polkadot technical roadmap for 2023 and 2024 focuses on enhancing scalabilit
 
 ## 🎭 Community&#x20;
 
-A global network of developers, validators, and users from the Polkadot community, collaborating to advance the platform. The community's active involvement in governance and development fosters a decentralized and vibrant ecosystem.
+A global network of developers, validators, and users from the Polkadot community collaborating to advance the platform. The community's active involvement in governance and development fosters a decentralized and vibrant ecosystem.
 
 For more information and to engage with the Polkadot community, visit:
 

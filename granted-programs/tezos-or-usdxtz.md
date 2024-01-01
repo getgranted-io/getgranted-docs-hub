@@ -24,17 +24,19 @@ Tezos was developed around the concept of self-amendment, allowing token holders
 
 ### 🗺️ Ecosystem
 
-Tezos supports a variety of applications including: 🪪 Non-fungible tokens (NFTs),  💸 Decentralized finance (DeFi), 🏦 Banking, ䷬ Decentralized autonomous organizations (DAOs), 🆔 Decentralized identifiers (DIDs), 🎮 Gaming.
+Tezos supports a variety of applications that include Non-fungible tokens (NFTs),  Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs) and Gaming.
 
 ### 🪙 Grant Program
 
-The Tezos Foundation has teamed up with Granted, aiming together to support the development and launch of innovative user applications and games on the network. The program prioritizes projects that showcase potential as flagship applications on Tezos Network, particularly those aligned with open-source principles.&#x20;
+The Tezos Foundation has teamed up with Granted, aiming to support the development of innovative user applications and games on the network. The program prioritizes projects that showcase potential as flagship applications on Tezos Network, particularly those aligned with open-source principles.&#x20;
 
-🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and Tezos strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+Granted and Tezos strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. \
+\
+🪧 [Apply Here!](https://www.getgranted.io/granted-application)
 
 ### 🧱 Tech Stack
 
-Tezos's tech stack includes:
+Tezos tech stack includes:
 
 * Multiple high-level languages (JavaScript/TypeScript, Python, OCaml)
 * Proof of stake consensus model
@@ -55,7 +57,7 @@ The recent developments in Tezos's roadmap emphasize a commitment to scalability
 * **Interoperability:** Smooth integration of various systems and languages.
 * **Improved Developer Experience:** Providing a user-friendly environment for builders.
 
-The Ultra High Throughput (UHT) rollup is a major feature, which will make Tezos's layer 1 lighter and more efficient, decreasing latency and simplifying consensus processes. This is part of a broader strategy to increase transaction speed and efficiency, indicating a significant evolution in Tezos's capabilities and a move towards a more advanced blockchain ecosystem.
+The Ultra High Throughput (UHT) rollup is a major feature which will make Tezos lighter and more efficient, decreasing latency and simplifying consensus processes. This is part of a broader strategy to increase transaction speed and efficiency, indicating a significant evolution in Tezos's capabilities and a move towards a more advanced blockchain ecosystem.
 
 ### 🎭 Community
 

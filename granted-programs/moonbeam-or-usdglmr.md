@@ -18,17 +18,17 @@ Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.get
 
 ## ⌚️ Background
 
-Moonbeam was developed by PureStake under Derek Yoo's guidance, designed to bolster interoperability between Ethereum and Polkadot. It enables developers to seamlessly deploy existing Solidity smart contracts and dApp frontends within a Polkadot parachain environment, while its companion network, Moonriver, underscores the platform's dedication to robust, tested deployments. The launch of its native token, GLMR, in January 2022, akin to Ethereum's ETH but tailored for the Polkadot ecosystem, marked a significant step towards Moonbeam's goal of fostering a unified, efficient blockchain landscape.
+PureStake developed Moonbeam under Derek Yoo's guidance, which was designed to bolster interoperability between Ethereum and Polkadot. It enables developers to seamlessly deploy existing Solidity smart contracts and dApp frontends within a Polkadot parachain environment, while its companion network, Moonriver, underscores the platform's dedication to robust, tested deployments. The launch of its native token, GLMR, in January 2022, akin to Ethereum's ETH but tailored for the Polkadot ecosystem, marked a significant step towards Moonbeam's goal of fostering a unified, efficient blockchain landscape.
 
 {% embed url="https://www.coingecko.com/en/coins/moonbeam" %}
 
 ## 🗺️ Ecosystem
 
-Moonbeam's ecosystem includes various use cases primarily due to its Ethereum compatibility and connections within the Polkadot network. These include decentralized finance (DeFi), cross-chain interoperability, decentralized applications (dApps) deployment, smart contract development, and more. Its multi-chain approach allows for the seamless integration of various tools and applications, fostering a diverse range of functionalities and services.&#x20;
+Moonbeam's ecosystem includes various use cases primarily due to its Ethereum compatibility and connections within the Polkadot network. These include decentralized finance (DeFi), cross-chain interoperability, decentralized applications (dApps) deployment, smart contract development, and more. Its multi-chain approach allows for seamless integration of various tools and applications, fostering diverse functionalities and services.&#x20;
 
 The following serves as a snapshot of Moonbeam's ecosystem across several Web3 categories:
 
-**Cross-chain Connectivity**: Enhances interoperability between blockchains like [Ethereum, Cosmos, and Avalanche](https://moonbeam.network/).
+**Cross-chain Connectivity**: Enhances interoperability between Ethereum, Cosmos, and Avalanche blockchains.
 
 **Gaming**: Supports games like [Evrloot](https://evrloot.io/) and [Blockchain Monster Hunt](https://bcmhunt.com/), offering deep NFT integration and blockchain features.
 
@@ -38,13 +38,15 @@ The following serves as a snapshot of Moonbeam's ecosystem across several Web3 c
 
 ## 🪙 Grant Program
 
-Moonbeam has launched the Moonbeam Grants Program, designed to foster the growth and development of distinctive applications and projects within its ecosystem. The program focuses on initiatives that demonstrate promise as key contributors to the Moonbeam platform, especially those that embrace and enhance its cross-chain interoperability and open-source ethos.
+Moonbeam has launched the Moonbeam Grants Program, designed to foster the growth and development of distinctive applications and projects within its ecosystem. The program focuses on initiatives demonstrating promise as key contributors to the Moonbeam platform, especially those that embrace and enhance its cross-chain interoperability and open-source ethos.
 
-🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and MoonBeam strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+Granted and MoonBeam strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. \
+\
+🪧 [Apply Here](https://www.getgranted.io/granted-application)!&#x20;
 
 ## 🧱 Tech Stack
 
-Moonbeam's tech stack is robust and multifaceted, supporting a wide range of applications and functionalities. Key components include:
+Moonbeam's tech stack is robust and multifaceted, supporting various applications and functionalities. Key components include:
 
 **Ethereum Compatibility**: Allows for deploying existing Ethereum dApps and smart contracts.
 
@@ -58,7 +60,7 @@ Moonbeam's tech stack is robust and multifaceted, supporting a wide range of app
 
 ## 🛣️ Roadmap
 
-In 2023, Moonbeam announced several significant integrations and functionalities, emphasizing its commitment to multi-chain interoperability and diverse applications. Notable developments include partnerships and integrations with various platforms, enhancing liquidity, and providing new functionalities like transaction automation, loyalty programs, and unlocking new liquidity avenues within the Polkadot ecosystem. These advancements illustrate Moonbeam's continuous effort to enhance its platform, improve user and developer experiences, and maintain its position as a leading destination for multi-chain applications.
+Moonbeam announced several significant integrations and functionalities, emphasizing its commitment to multi-chain interoperability and diverse applications. Notable developments include partnerships and integrations with various platforms, enhancing liquidity, and providing new functionalities like transaction automation, loyalty programs, and unlocking new liquidity avenues within the Polkadot ecosystem. These advancements illustrate Moonbeam's continuous effort to enhance its platform, improve user and developer experiences, and maintain its position as a leading destination for multi-chain applications.
 
 ## 🎭 Community
 

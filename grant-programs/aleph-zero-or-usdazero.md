@@ -85,7 +85,7 @@ For more information and to engage with the Aleph Zero community, you can visit 
 * **Updates:** [Aleph Zero Blog](https://alephzero.org/blog/)
 * **Social Media:** [Twitter](https://twitter.com/Aleph\_\_Zero)**,** [Linked-in](https://www.linkedin.com/company/alephzero/)
 
-_Stay tuned, as this is a growing space. We'll be exploring more use cases with this project soon!_
+_Stay tuned, as this is a growing space. We'll be exploring more use cases with Aleph Zero!_
 
 ## 📚 Resources
 

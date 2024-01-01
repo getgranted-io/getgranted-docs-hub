@@ -26,13 +26,13 @@ The SKALE Network was founded in 2017 by Jack O'Holleran and Stan Kladko to addr
 
 ## 🗺️ Ecosystem
 
-SKALE Network has established several significant partnerships in the gaming sector, enhancing the gaming experience with its zero gas fees, high scalability, and advanced blockchain features. Here's a summary of these partnerships, along with links to the related games and any available metrics:
+SKALE Network has established several significant partnerships in the gaming sector, enhancing the gaming experience with zero gas fees, high scalability, and advanced blockchain features. Here's a summary of these partnerships, along with links to the related games and any available metrics:
 
-“**Untitled”**: A retro multiplayer game utilizing SKALE's blockchain technology to provide gamers with a unique experience. Players can enjoy both casual and competitive gaming with in-game challenges and achievements 【[1](https://skale.space/blog/skales-march-2023-recap-building-a-stronger-skaleverse-with-fresh-partnerships-and-exciting-events)】.
+“**Untitled”**: A retro multiplayer game utilizing SKALE's blockchain technology to give games a unique experience. Players can enjoy casual and competitive gaming with in-game challenges and achievements 【[1](https://skale.space/blog/skales-march-2023-recap-building-a-stronger-skaleverse-with-fresh-partnerships-and-exciting-events)】.
 
 [**Warshmallows World**](https://skale.space/blog/skales-march-2023-recap-building-a-stronger-skaleverse-with-fresh-partnerships-and-exciting-events): This game represents a shift to Web3 gaming, partnering with SKALE to offer players true digital ownership of assets. It features a hyper interoperability system allowing players to transfer heroes across multiple platforms and games.
 
-[**Gamifly & CricketFly**](https://skale.space/blog/skale-q3-ecosystem-recap-the-biggest-period-of-growth-in-skales-history): A sports metaverse with its flagship product, CricketFly, live on SKALE. It's gained immense popularity in Southeast Asia with over two million downloads and 200,000 UAW in the past 30 days, processing over 2 million transactions.
+[**Gamifly & CricketFly**](https://skale.space/blog/skale-q3-ecosystem-recap-the-biggest-period-of-growth-in-skales-history): A sports metaverse with its flagship product, CricketFly, live on SKALE. It's gained immense popularity in Southeast Asia, with over two million downloads and 200,000 UAW in the past 30 days, processing over 2 million transactions.
 
 [**NFTb**](https://skale.space/blog/leveling-up-the-web3-gaming-nftb-launches-new-gaming-platform-on-skale): A new gaming platform launched on SKALE, focusing on efficiency, speed, and community engagement. It supports developers with tools and support to craft immersive gaming experiences.
 
@@ -40,15 +40,17 @@ SKALE Network has established several significant partnerships in the gaming sec
 
 ## 🪙 Grant Program
 
-Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects working in the following spaces: 💸 DeFI, 🕹️ Gaming.
+Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects in the following spaces: 💸 DeFI &🕹️ Gaming.
 
-🪧 [Apply](https://www.getgranted.io/granted-application)! Granted and SKALE strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+Granted and SKALE strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+
+🪧 [Apply Here! ](https://www.getgranted.io/granted-application)
 
 ## 🧱 Tech Stack
 
 SKALE Network is a sophisticated blockchain platform designed to enhance the scalability and functionality of Ethereum and other blockchains. A breakdown of its core components includes:
 
-**Elastic Sidechains**: Configurable blockchains that work alongside the main Ethereum chain. They allow developers to run decentralized applications (dApps) more efficiently by improving scalability, reducing latency, and lowering transaction costs. Each elastic sidechain can be considered a separate blockchain with its consensus mechanism, which is fully compatible with Ethereum.
+**Elastic Sidechains**: Configurable blockchains that work alongside the main Ethereum chain. They allow developers to run decentralized applications (dApps) more efficiently by improving scalability, reducing latency, and lowering transaction costs. Each elastic sidechain can be considered a separate blockchain with its consensus mechanism, fully compatible with Ethereum.
 
 **SKALE Manager**: This contract operates on the Ethereum mainnet and coordinates between all the SKALE nodes and sidechains. It handles tasks like node registration, random node selection for chains, token operations, and more, essentially acting as the "brain" of the SKALE Network.
 
@@ -58,13 +60,13 @@ SKALE Network is a sophisticated blockchain platform designed to enhance the sca
 
 **Zero-Knowledge Proofs (ZK Proofs)**: ZK Proofs are a form of cryptographic proof that allows one party to prove to another that a statement is true without revealing any information beyond the validity of the statement itself. SKALE's implementation of ZK proofs, especially within the Levitation Protocol, aims to enhance privacy and scalability across its network.
 
-**SKALE Daemon**: This software runs on each node in the SKALE Network and manages containers, sChains, and various other network functions. It helps ensure the smooth operation and communication of the individual nodes that power the network.
+**SKALE Daemon**: This software runs on each node in the SKALE Network and manages containers, sChains, and other network functions. It helps ensure the smooth operation and communication of the individual nodes that power the network.
 
 **Node Core**: Each node in the SKALE Network runs the Node Core software, which includes the SKALE Daemon, consensus implementation, and other essential components. These nodes work together to provide the computational resources needed to support the elastic sidechains.
 
 **Interchain Messaging Agent (IMA)**: IMA enables the direct transfer of messages, tokens, and states between SKALE Chains and the Ethereum mainnet. This interoperability feature is crucial for seamless operation and integration with the broader Ethereum ecosystem.
 
-These components work together to provide a layered, configurable, and efficient environment for developers to build and deploy scalable dApps. The SKALE Network continues to evolve, with ongoing updates and improvements to enhance its performance, usability, and functionality in the blockchain ecosystem. Below, we’ll take a look at what’s in the pipeline for SKALE.
+These components work together to provide a layered, configurable, and efficient environment for developers to build and deploy scalable dApps. The SKALE Network continues to evolve, with ongoing updates and improvements to enhance its performance, usability, and functionality in the blockchain ecosystem. Below, we’ll look at what’s in the pipeline for SKALE.
 
 ## 🎭 Roadmap
 
@@ -76,7 +78,7 @@ SKALE’s next release (v2.3) will focus on updating compatibility with the EVM 
 
 * **SKALE G (Ganymede)**: Introduction of SKALE G, a fast and scalable decentralized Layer 1 blockchain featuring L2 Zero-Knowledge (ZK) hooks back to Ethereum, allowing developers to utilize cutting-edge technology while maintaining a connection to the Ethereum network.
 * **Decentralization and Interoperability**: Unlike current centralized ZK protocols, Levitation will implement a decentralized sequencer as a set of smart contracts on a SKALE Chain, enabling different ZKRs to interact seamlessly and run in a common environment, thus providing a common ledger of transactions and facilitating the interaction of rollups.
-* **Testnet and Mainnet Launch**: Stay tuned for the public testnet launch, which was anticipated for later in 2023, with the mainnet launch scheduled for the fourth quarter of 2023.
+* **Testnet and Mainnet Launch**: Stay tuned for the public testnet launch, anticipated for later in 2023, with the mainnet launch scheduled for the fourth quarter of 2023.
 
 ## 🎭 **Community**
 
@@ -88,7 +90,7 @@ For more information and to engage with the SKALE community, you can visit the f
 * **Social Media:** [Twitter](https://twitter.com/SkaleNetwork), [GitHub](https://github.com/skalenetwork)
 * **Forum:** [Mantle Network](https://forum.mantlelsp.io)
 
-_Stay tuned, as this is a growing space. We'll be exploring more use-cases with this project soon!_
+_Stay tuned, as this is a growing space. We'll be exploring more use-cases with SKALE soon!_
 
 ## 📚 Resources
 
