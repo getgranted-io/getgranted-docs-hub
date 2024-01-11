@@ -1,18 +1,18 @@
 # 🗃 Changelog
 
-v0.2.0-dev
+v0.2.0
 
 * Partner cover images added
-* Added Grant Program Partnership: Aleph Zero, Mantle, Tezos, Polkadot, MoonBeam
 * First Partnership Network added: SKALE
-* Fixed the title Skale -> SKALE
+* Added intro to granted programs page.
+* Added Glossary
 
-v0.1.2-dev
+v0.1.2
 
 * removed kyb reference
 * removed personal twitter link
 
-v0.1.1-dev
+v0.1.1
 
 * Reformatted the Headers in the main Welcome to Granted README
 * Changed Granted. (with period) to Granted (without period)
