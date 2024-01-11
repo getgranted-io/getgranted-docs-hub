@@ -11,3 +11,7 @@
 **Tooling:** Involves developing tools and utilities that aid developers in building, testing, and deploying blockchain applications more efficiently.
 
 **Cryptographic Research and Development:** Focuses on advancing the security and efficiency of blockchain systems through innovative cryptographic techniques, including encryption, consensus algorithms, and privacy-preserving technologies.
+
+## Crypto Concepts
+
+**Sidechain:** A sidechain is an independent blockchain that operates separately from the Network, such as Ethereum Mainnet, yet remains connected to it through a two-way bridge. Distinct from layer 2 scaling solutions, sidechains maintain their independence by not sending state changes and transaction data back to the Mainnet. This structure allows sidechains to function autonomously while still being linked to the network's ecosystem.
