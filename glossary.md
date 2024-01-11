@@ -46,7 +46,9 @@ layout:
 
 **S2E (Swag to Earn):** Swag-to-Earn incentivizes players to earn from swagging. Players gain revenue from flaunting, showing off assets, attending fashion events, socializing with other players and involving in entertainment activities in virtual communities. Metrics considered are as such: Social Index, Fashion Index and Entertainment Index.
 
-**PEC / Play-Earn-Conserve:** PEC is a model where players can engage with network-based games or other web3 applications to earn economic incentives while actively contributing to nature conservation efforts. It combines gaming, blockchain, and environmental sustainability to create a rewarding and environmentally responsible gaming experience.
+**K2E (Kill-to-Earn) in Battle Royale:** K2E is a game mechanic implemented in Battle Royale games where players are rewarded with cryptocurrency, digital assets, or in-game currency for eliminating other players (killing opponents) within the game. It introduces a competitive and lucrative element to traditional Battle Royale gameplay.
+
+**PEC (Play-Earn-Conserve):** PEC is a model where players can engage with network-based games or other web3 applications to earn economic incentives while actively contributing to nature conservation efforts. It combines gaming, blockchain, and environmental sustainability to create a rewarding and environmentally responsible gaming experience.
 
 **Related Topics**
 
