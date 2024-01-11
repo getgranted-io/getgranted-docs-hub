@@ -44,9 +44,19 @@ layout:
 
 **P2O (Play to Own):** P2O is a game mechanic that allows players to own in-game assets as true digital property. These assets are typically represented as NFTs on the blockchain, providing players with full ownership rights. Players can buy, sell, and trade these assets freely, creating a player-driven virtual economy.
 
+**S2E (Swag to Earn):** Swag-to-Earn incentivizes players to earn from swagging. Players gain revenue from flaunting, showing off assets, attending fashion events, socializing with other players and involving in entertainment activities in virtual communities. Metrics considered are as such: Social Index, Fashion Index and Entertainment Index.
+
+**PEC / Play-Earn-Conserve:** PEC is a model where players can engage with network-based games or other web3 applications to earn economic incentives while actively contributing to nature conservation efforts. It combines gaming, blockchain, and environmental sustainability to create a rewarding and environmentally responsible gaming experience.
+
+**Related Topics**
+
+**Environmental Tokenomics:** PEC employs tokenomics that reward players with cryptocurrency or digital assets as they engage with eco-conscious games and applications. These incentives motivate users to participate and contribute to nature conservation initiatives.
+
+**Proof of Conservation (PoC):** PoC is a consensus mechanism that verifies and rewards players for their contributions to environmental conservation. It may involve actions such as planting trees, reducing carbon footprint, or supporting eco-friendly projects.
+
 **Phygital Metaverse:** The Phygital Metaverse is a fusion of the physical and digital worlds, where augmented reality (AR), virtual reality (VR), and blockchain technologies combine to create a seamless, immersive, and interconnected environment. It blurs the boundaries between physical and virtual reality, enabling users to interact with both digital and real-world elements in a shared, persistent space.&#x20;
 
-Related Terms:
+**Related Topics:**
 
 * **AR and VR Integration:** AR and VR technologies are core components of the Phygital Metaverse, allowing users to experience immersive digital environments and interact with physical surroundings using headsets or mobile devices.
 * **Digital Twins:** Digital twins are digital representations or avatars of physical objects, spaces, or even individuals. They enable synchronization between the physical and digital realms within the metaverse.
