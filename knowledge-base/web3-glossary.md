@@ -12,9 +12,13 @@ layout:
     visible: true
 ---
 
-# 🔖 Glossary
+# 🔖 Web3 Glossary
 
 ## Blockchain
+
+### **Layer 0 (L0)**
+
+Layer 0 (L0) blockchains serve as the foundational infrastructure in the blockchain architecture,  providing the necessary infrastructure for launching multiple Layer 1 networks, each tailored for specific tasks and addressing scalability challenges, enabling Layer 1 networks to communicate and interact seamlessly. Layer 0 architecture typically includes a main chain that stores transaction data from various Layer 1 chains and independent Layer 1 networks known as sidechains, which run their consensus mechanisms but may share the security features of the main chain, and allow for secure and efficient data and token transfers between different blockchains in the Layer 0 ecosystem.
 
 ### **Layer 1 (L1)**
 
@@ -120,15 +124,7 @@ Stateful NFTs, also known as "Smart NFTs" or "Interactive NFTs," are a type of n
 
 ### Soulbound Tokens (SBT)
 
-Soulbound Tokens (SBTs) are an emerging concept within the Web3 ecosystem, focusing on creating a more identity-centric and decentralized society.&#x20;
-
-1. **Definition and Origin**: SBTs are non-transferable, non-financialized digital tokens introduced by Ethereum creator Vitalik Buterin, along with economist E. Glen Weyl and lawyer Puja Ohlhaver. They are meant to represent a person's identity, reputation, and affiliations within a decentralized society (DeSoc)​​​​.
-2. **Primary Features and Use Cases**: SBTs are unique because they cannot be transferred or sold. They are designed to hold and represent a person's credentials and achievements within the Web3 space. SBTs have a variety of potential applications, such as enhancing trust among community members, governance rights and delegated authority in DAOs, KYC requirements, credit scoring, combating bots and spam on social media platforms, e-government voting, and achievement-based items in Web3 games​​​​.
-3. **Potential Impact on Society**: SBTs are proposed as foundational elements for a DeSoc, which focuses on social identity and community-driven initiatives rather than just financial transactions. They could play a significant role in merging physical and virtual worlds, such as in the metaverse, by representing human relationships and social constructs​​.
-4. **Pros and Cons**: While SBTs offer the potential for more democratic governance structures and could facilitate trust and verification processes, they also raise concerns. These include the challenges in recovering lost "Souls" (wallets that hold SBTs), the risk of turning into a social credit system, and the ethical implications of a reputation-based society​​​​.
-5. **Development Stage**: As of now, SBTs are still a nascent concept, with various aspects needing further exploration and development. The idea is gaining traction, and its proponents believe it could significantly shape the future of Web3 and decentralized societies​​.
-
-In conclusion, Soulbound Tokens represent an intriguing development in the Web3 space, aiming to blend decentralized technology with social identity and community structures. However, as with any emerging technology, there are challenges and ethical considerations that need to be addressed as the concept evolves.
+Soulbound Tokens (SBTs), introduced by Ethereum's Vitalik Buterin and others, are non-transferable tokens representing personal identities, credentials, and affiliations in a decentralized society (DeSoc). Unsellable and non-financialized, they aim to enhance trust and governance in Web3, with applications in DAOs, KYC, credit scoring, and combating online bots. SBTs are pivotal in blending physical and virtual realities, like in the metaverse, by symbolizing human interactions. However, they face challenges like wallet recovery, potential misuse as a social credit system, and ethical issues in reputation-based societies. As a developing concept, SBTs hold promise for shaping the future of Web3 and decentralized communities, balancing technological innovation with social identity and community dynamics. SBTs can be used to represent and verify personal credentials, achievements, and affiliations, enhancing trust and collaboration in digital communities, are applicable in DAO governance, allowing for delegated authority based on verified attributes, can be instrumental in KYC processes, credit scoring systems, and combating bots and spam in online environments, ane more!
 
 ### **NFT Drops**
 
@@ -137,6 +133,32 @@ Exclusive Non-Fungible Token (NFT) assets that are distributed to users/players 
 ### **NFT Marketplaces**
 
 Integration with NFT marketplaces like OpenSea or Rarible for trading on-chain assets.
+
+## NFT Use-Cases
+
+### Trial/Ephemeral NFTs
+
+Ephemeral or Trial Utility NFTs are a novel concept in the NFT space that allows for temporary access to digital content through NFTs. These NFTs are particularly suited for Free-to-Play games and adopt a 'Try before Buy' approach. Unlike traditional NFTs, Ephemeral NFTs come with an expiration date or limited use, introducing a dynamic aspect to digital ownership. This model enables unique time-bound experiences within the NFT ecosystem, enhances user engagement through limited-time access, and facilitates financial inclusion by allowing users to experience premium features without a full purchase. Ephemeral NFTs can be applied in various fields, such as gaming, art, and culture, and are seen as a way to introduce scarcity and increase the perceived value of digital assets. See [ERC-7066](https://eips.ethereum.org/EIPS/eip-7066), which pertains to the creation and handling of NFTs with disposable attributes, enabling access for a limited time or under specific usage conditions. This concept is particularly relevant in contexts where NFTs are used temporarily, such as in gaming, art, and culture, where they provide time-bound access to content or experiences​​.
+
+### NFT Rentals
+
+NFT Rentals provide a way for individuals to access NFTs for a limited period without full ownership, using smart contracts as escrow. This method is beneficial for both NFT owners, who can earn passive income by lending their NFTs, and renters, who can enjoy the privileges of NFTs without the high cost of ownership. There are two forms of NFT renting: collateral renting, where renters pay a fee and deposit collateral, and collateral-less renting, which does not require a deposit from the renter.
+
+### P2P Loans
+
+In the context of NFTs, Peer-to-Peer (P2P) loans allow NFT owners to use their digital assets as collateral for loans. This approach helps owners unlock liquidity from their NFT holdings without the need to sell them. These loans typically involve creating a smart contract where the NFT is held as collateral until the loan is repaid. The specific terms, such as interest rates and repayment period, are agreed upon between the borrower and the lender. This system provides a unique opportunity for NFT owners to leverage their digital assets' value while retaining ownership.
+
+### Primary Sales Mint
+
+The term "Primary Sales Mint" is often associated with the initial creation and sale of NFTs. This process involves minting, where a digital asset is created and recorded on the blockchain, making it an NFT. In primary sales, creators or project developers directly sell these NFTs to buyers. The minting process is crucial as it transforms a digital file into a unique, verifiable asset on the blockchain. Primary sales are significant for creators as they represent the first opportunity to monetize their digital artworks or assets directly to a community or the public.
+
+### NFT Mandate
+
+An NFT Mandate refers to mechanisms that commit to transferring NFTs at a later date, contingent on specific conditions or events. This concept is akin to a futures contract in traditional finance, where the ownership and transfer of an NFT are predetermined by a set of agreed-upon criteria in the future. These mandates are enforced through smart contracts, ensuring that the transfer of the NFT is executed automatically once the conditions are met. This method is particularly useful in scenarios where NFTs are used for event tickets, memberships, or other time-bound utilities.
+
+### Post-Mint Utility
+
+Post-mint utility in the context of NFTs pertains to the added value and benefits introduced to an NFT collection after the initial minting process. This could include access to exclusive content, membership privileges, additional digital assets, or participation in community events. Enhancing NFTs with post-mint utility is a strategy
 
 ***
 
