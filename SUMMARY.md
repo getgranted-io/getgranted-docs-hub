@@ -13,5 +13,6 @@
 * [🆘 Support](support/README.md)
   * [☎ Contact Us](support/contact-us.md)
   * [🤚 FAQ](support/faq.md)
-* [🗃 Changelog](changelog.md)
-* [🔖 Glossary](glossary.md)
+  * [🗃 Changelog](support/changelog.md)
+* [📚 Knowledge Base](knowledge-base/README.md)
+  * [🔖 Web3 Glossary](knowledge-base/web3-glossary.md)
