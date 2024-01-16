@@ -3,7 +3,7 @@
 v0.2.0
 
 * Partner cover images added
-* First Partnership Network added: SKALE
+* First Partnership Networks added: SKALE, Aleph Zero
 * Added intro to granted programs page.
 * Added Glossary
 
