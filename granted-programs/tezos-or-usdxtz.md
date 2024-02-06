@@ -22,11 +22,11 @@ Tezos was developed around the concept of self-amendment, allowing token holders
 
 {% embed url="https://www.coingecko.com/en/coins/tezos" %}
 
-### 🗺️ Ecosystem
+## 🗺️ Ecosystem
 
 Tezos supports a variety of applications that include Non-fungible tokens (NFTs),  Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs) and Gaming.
 
-### 🪙 Grant Program
+## 🪙 Grant Program
 
 The Tezos Foundation has teamed up with Granted, aiming to support the development of innovative user applications and games on the network. The program prioritizes projects that showcase potential as flagship applications on Tezos Network, particularly those aligned with open-source principles.&#x20;
 
@@ -34,7 +34,7 @@ Granted and Tezos strongly encourages all projects contributing to the growth of
 \
 🪧 [Apply Here!](https://www.getgranted.io/granted-application)
 
-### 🧱 Tech Stack
+## 🧱 Tech Stack
 
 Tezos tech stack includes:
 
@@ -47,7 +47,7 @@ Tezos tech stack includes:
 
     Formal verification on Tezos involves using mathematical proofs to verify the correctness of smart contracts. This method ensures that the code behaves as intended, significantly reducing the risk of bugs and vulnerabilities. Tezos's architecture and language ([Michelson](https://www.michelson.org/)) are designed to facilitate this process, making it a more secure platform for developing and deploying smart contracts. By providing a higher assurance of code safety, formal verification on Tezos attracts developers looking to create reliable and trustworthy applications.
 
-### 🛣️ Roadmap
+## 🛣️ Roadmap
 
 The recent developments in Tezos's roadmap emphasize a commitment to scalability and interoperability, with a focus on the following:
 
@@ -59,7 +59,7 @@ The recent developments in Tezos's roadmap emphasize a commitment to scalability
 
 The Ultra High Throughput (UHT) rollup is a major feature which will make Tezos lighter and more efficient, decreasing latency and simplifying consensus processes. This is part of a broader strategy to increase transaction speed and efficiency, indicating a significant evolution in Tezos's capabilities and a move towards a more advanced blockchain ecosystem.
 
-### 🎭 Community
+## 🎭 Community
 
 The Tezos community comprises developers, businesses, and users globally, all contributing to the digital commonwealth. The community is actively involved in developing, staking, and governance, ensuring a decentralized and collaborative environment.
 

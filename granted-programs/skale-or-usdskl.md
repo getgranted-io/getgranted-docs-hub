@@ -42,7 +42,7 @@ SKALE Network has established several significant partnerships in the gaming sec
 
 Granted has partnered with SKALE Network to provide Grant opportunities to builders, infrastructure providers, researchers, and application developers. SKALE is looking to provide grants to projects in the following spaces: 💸 DeFI &🕹️ Gaming.
 
-Granted and SKALE strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+Granted and SKALE strongly encourages all projects contributing to the growth of the SKALE ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
 🪧 [Apply Here! ](https://www.getgranted.io/granted-application)
 

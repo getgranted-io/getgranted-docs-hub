@@ -32,13 +32,13 @@ Mantle Network's platform serves various purposes, including:
 
 🏦 DeFi: Mantle's goal is to make advanced DeFi protocols accessible for widespread adoption, which could potentially drive the creation of innovative financial products and services in the crypto space.
 
-📱 Decentralized Applications (dApps): Mantle supports the deployment and operation of various dApps and smart contracts to an EVM-compatible environment for developers.
+📱 Decentralized Applications (dApps): Mantle supports deploying and operating various dApps and smart contracts to an EVM-compatible environment for developers.
 
 ## 🪙 Grant Program
 
-Mantle Network has introduced the Mantle Grants Program, aiming to support the development and launching of innovative user applications and games. The program prioritizes projects that showcase potential as flagship applications on Mantle Network, particularly those aligned with open-source principles.&#x20;
+Mantle Network has introduced the Mantle Grants Program, aiming to support developing and launching innovative user applications and games. The program prioritizes projects that showcase potential as flagship applications on Mantle Network, particularly those aligned with open-source principles.&#x20;
 
-Granted and Mantle strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
+Granted and Mantle strongly encourages all projects contributing to the ecosystem's growth to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
 
 🪧[ Apply Here!](https://www.getgranted.io/granted-application)
 

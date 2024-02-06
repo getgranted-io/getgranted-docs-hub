@@ -40,7 +40,7 @@ The following serves as a snapshot of Moonbeam's ecosystem across several Web3 c
 
 Moonbeam has launched the Moonbeam Grants Program, designed to foster the growth and development of distinctive applications and projects within its ecosystem. The program focuses on initiatives demonstrating promise as key contributors to the Moonbeam platform, especially those that embrace and enhance its cross-chain interoperability and open-source ethos.
 
-Granted and MoonBeam strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. \
+Granted and MoonBeam strongly encourages all projects contributing to the ecosystem's growth to share their projects with us, especially those that fit under any categories known to be prioritized by the community. \
 \
 🪧 [Apply Here](https://www.getgranted.io/granted-application)!&#x20;
 
