@@ -1,7 +1,7 @@
 ---
 description: >-
   This document contains comprehensive information for project teams to know
-  whether Avalance is the right place to build with Granted.
+  whether Avalanche is the right place to build with Granted.
 cover: ../.gitbook/assets/docs hub header logo 1 (1).png
 coverY: 0
 ---
