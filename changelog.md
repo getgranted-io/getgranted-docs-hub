@@ -1,5 +1,9 @@
 # 🗃 Changelog
 
+v0.2.1
+
+* Glossary Grants & Funding
+
 v0.2.0
 
 * Partner cover images added
