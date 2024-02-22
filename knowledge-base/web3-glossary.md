@@ -22,7 +22,7 @@ Layer 0 (L0) blockchains serve as the foundational infrastructure in the blockch
 
 ### **Layer 1 (L1)**
 
-Layer 1 blockchains are the foundational networks of the blockchain world. They operate independently and can validate and finalize transactions independently, without another network's assistance. Famous examples of L1 blockchains include Bitcoin, Ethereum, and Binance Smart Chain. L1 solutions might involve modifying the blockchain's rules or protocols to improve scalability and transaction speed. This can include consensus protocol improvements (such as transitioning from Proof of Work to Proof of Stake) or implementing sharding, where the blockchain is divided into smaller, more manageable parts that can process data in parallel​​​​.
+
 
 ### **Layer 2 (L2)**&#x20;
 
@@ -30,15 +30,15 @@ Layer 2 solutions are built on top of Layer 1 blockchains and are designed to en
 
 ### **Layer 3 (L3)**
 
-Layer 3 focuses on interoperability between different blockchain networks and is designed to enhance further the scalability of blockchain networks beyond the capabilities of L1 and L2. It offers an infrastructure for developing more complex decentralized applications (dApps) that require advanced features and functionalities.
+Layer 3 focuses on interoperability between different blockchain networks and is designed to enhance the scalability of blockchain networks beyond the capabilities of L1 and L2. It offers an infrastructure for developing more complex decentralized applications (dApps) that require advanced features and functionalities.
 
 ### **Layer 4 (L4)**
 
-Layer 4 is where most decentralized applications (dApps) run, using smart contracts to execute their business logic​. It is often referred to as the application or user interface layer in the blockchain architecture. It represents the entry point for users into the blockchain ecosystem, providing user-friendly interfaces and interactions with the underlying blockchain technology.
+Layer 4 is where most decentralized applications (dApps) run, using smart contracts to execute their business logic​. It is often called the application or user interface layer in the blockchain architecture. It represents the entry point for users into the blockchain ecosystem, providing user-friendly interfaces and interactions with the underlying blockchain technology.
 
 ### **Sidechains**
 
-Sidechains are independent blockchain networks that link to a parent blockchain (like Bitcoin or Ethereum) through a two-way peg. They have their consensus protocols and can operate independently, improving privacy and security. The critical feature of sidechains is their ability to facilitate the transfer of digital assets between the mainnet and the sidechain, allowing users to move assets across networks seamlessly. They essentially expand the capabilities of the leading blockchain by allowing more experimental or niche applications without overburdening the leading network​​, while still being linked to the network's ecosystem and security.
+Sidechains are independent blockchain networks that link to a parent blockchain (like Bitcoin or Ethereum) through a two-way peg. They have consensus protocols and can operate independently, improving privacy and security. The critical feature of sidechains is their ability to facilitate the transfer of digital assets between the mainnet and the sidechain, allowing users to move assets across networks seamlessly. They essentially expand the capabilities of the leading blockchain by allowing more experimental or niche applications without overburdening the leading network​​while still being linked to the network's ecosystem and security.
 
 ### **Yield Farming**
 
@@ -58,7 +58,7 @@ ERC-721 is a standard for NFTs on the Ethereum blockchain. Each ERC-721 token is
 
 ### **ERC-1155 NFTs**
 
-ERC-1155 is another standard for NFTs on the Ethereum blockchain, designed to be more flexible than ERC-721. ERC-1155 tokens can represent both fungible and non-fungible assets within a single contract. This means that a single ERC-1155 contract can handle multiple NFTs, offering developers greater efficiency and versatility.
+ERC-1155 is another standard for NFTs on the Ethereum blockchain, designed to be more flexible than ERC-721. ERC-1155 tokens can represent both fungible and non-fungible assets within a single contract. A single ERC-1155 contract can handle multiple NFTs, offering developers greater efficiency and versatility.
 
 **Key Differences:**
 
@@ -109,7 +109,7 @@ Stateful NFTs, also known as "Smart NFTs" or "Interactive NFTs," are a type of n
 1. **Programmability:** Stateful NFTs are programmable and contain embedded code or smart contracts that enable them to perform specific actions or respond to triggers.
 2. **Interactivity:** These NFTs can interact with external data sources, user inputs, or other smart contracts, allowing them to change their behavior or appearance in real time.
 3. **Dynamic Attributes:** Stateful NFTs can have dynamic attributes or properties that can be modified or updated over time. These attributes can affect the NFT's appearance, functionality, or value.
-4. **Utility and Functionality:** Stateful NFTs often have utility or functionality beyond simple ownership. They can represent access rights, memberships, or in-game items used in decentralized applications (dApps) or virtual worlds.
+4. **Utility and Functionality:** Stateful NFTs often have utility or functionality beyond simple ownership. They can represent access rights, memberships, or in-game items in decentralized applications (dApps) or virtual worlds.
 
 **Examples of Stateful NFTs:**
 
@@ -124,7 +124,7 @@ Stateful NFTs, also known as "Smart NFTs" or "Interactive NFTs," are a type of n
 
 ### Soulbound Tokens (SBT)
 
-Soulbound Tokens (SBTs), introduced by Ethereum's Vitalik Buterin and others, are non-transferable tokens representing personal identities, credentials, and affiliations in a decentralized society (DeSoc). Unsellable and non-financialized, they aim to enhance trust and governance in Web3, with applications in DAOs, KYC, credit scoring, and combating online bots. Like in the metaverse, SBTs are pivotal in blending physical and virtual realities by symbolizing human interactions. However, they face challenges like wallet recovery, potential misuse as a social credit system, and ethical issues in reputation-based societies. As a developing concept, SBTs hold promise for shaping the future of Web3 and decentralized communities, balancing technological innovation with social identity and community dynamics. SBTs can be used to represent and verify personal credentials, achievements, and affiliations, enhancing trust and collaboration in digital communities, they are applicable in DAO governance, allowing for delegated authority based on verified attributes, can be instrumental in KYC processes, credit scoring systems, and combating bots and spam in online environments, and more!
+Soulbound Tokens (SBTs), introduced by Ethereum's Vitalik Buterin and others, are non-transferable tokens representing personal identities, credentials, and affiliations in a decentralized society (DeSoc). Unsellable and non-financialized, they aim to enhance trust and governance in Web3, with applications in DAOs, KYC, credit scoring, and combating online bots. Like the metaverse, SBTs are pivotal in blending physical and virtual realities by symbolizing human interactions. However, they face challenges like wallet recovery, potential misuse as a social credit system, and ethical issues in reputation-based societies. As a developing concept, SBTs hold promise for shaping the future of Web3 and decentralized communities, balancing technological innovation with social identity and community dynamics. SBTs can be used to represent and verify personal credentials, achievements, and affiliations, enhancing trust and collaboration in digital communities; they are applicable in DAO governance, allowing for delegated authority based on verified attributes, can be instrumental in KYC processes, credit scoring systems, and combating bots and spam in online environments, and more!
 
 ### **NFT Drops**
 
@@ -142,7 +142,7 @@ Ephemeral or Trial Utility NFTs are a novel concept in the NFT space that allows
 
 ### NFT Rentals
 
-NFT Rentals allow individuals to access NFTs for a limited period without full ownership, using smart contracts as escrow. This method benefits both NFT owners, who can earn passive income by lending their NFTs, and renters, who can enjoy the privileges of NFTs without the high cost of ownership. There are two forms of NFT renting: collateral renting, where renters pay a fee and deposit collateral, and collateral-less renting, which does not require a deposit from the renter.
+NFT Rentals allow individuals to access NFTs for a limited period without full ownership, using smart contracts as escrow. This method benefits both NFT owners, who can earn passive income by lending their NFTs, and renters, who can enjoy NFTs' privileges without the high ownership cost. There are two forms of NFT renting: collateral renting, where renters pay a fee and deposit collateral, and collateral-less renting, which does not require a deposit from the renter.
 
 ### P2P Loans
 
@@ -150,15 +150,15 @@ In the context of NFTs, Peer-to-Peer (P2P) loans allow NFT owners to use their d
 
 ### Primary Sales Mint
 
-The term "Primary Sales Mint" is often associated with NFTs' initial creation and sale. This process involves minting, creating and recording a digital asset on the blockchain, making it an NFT. In primary sales, creators or project developers directly sell these NFTs to buyers. The minting process is crucial as it transforms a digital file into a unique, verifiable asset on the blockchain. Primary sales are significant for creators as they represent the first opportunity to monetize their digital artworks or assets directly to a community or the public.
+"Primary Sales Mint" is often associated with NFTs' initial creation and sale. This process involves minting, creating, and recording a digital asset on the blockchain, making it an NFT. In primary sales, creators or project developers directly sell these NFTs to buyers. The minting process is crucial as it transforms a digital file into a unique, verifiable asset on the blockchain. Primary sales are significant for creators as they represent the first opportunity to monetize their digital artworks or assets directly to a community or the public.
 
 ### NFT Mandate
 
-An NFT Mandate refers to mechanisms that commit to transferring NFTs at a later date, contingent on specific conditions or events. This concept is akin to a futures contract in traditional finance, where the ownership and transfer of an NFT are predetermined by a set of agreed-upon criteria in the future. These mandates are enforced through smart contracts, ensuring that the transfer of the NFT is executed automatically once the conditions are met. This method is beneficial in scenarios where NFTs are used for event tickets, memberships, or other time-bound utilities.
+An NFT Mandate refers to mechanisms that commit to transferring NFTs at a later date, contingent on specific conditions or events. This concept is akin to a futures contract in traditional finance, where the ownership and transfer of an NFT are predetermined by a set of agreed-upon criteria in the future. These mandates are enforced through smart contracts, ensuring that the transfer of the NFT is executed automatically once the conditions are met. This method is beneficial when NFTs are used for event tickets, memberships, or other time-bound utilities.
 
 ### Post-Mint Utility
 
-In the context of NFTs, post-mint utility pertains to the added value and benefits introduced to an NFT collection after the initial minting process. This could include access to exclusive content, membership privileges, additional digital assets, or participation in community events. Enhancing NFTs with post-mint utility is a strategy.
+In NFTs, post-mint utility pertains to the added value and benefits introduced to an NFT collection after the initial minting process. This could include access to exclusive content, membership privileges, additional digital assets, or participation in community events. Enhancing NFTs with post-mint utility is a strategy.
 
 ***
 
@@ -190,11 +190,11 @@ PEC is a model where players can engage with network-based games or web3 applica
 
 ### Metaverse / **Phygital**
 
-"Metaverse" refers to a collective virtual shared space encompassing the digital and physical worlds, creating a persistent, immersive, and interconnected environment where users can interact, socialize, work, play, and design. The metaverse concept has gained significant attention in recent years, driven by advancements in technology, augmented reality, virtual reality, blockchain, and the desire to create expansive digital universes.
+"Metaverse" refers to a collective virtual shared space encompassing the digital and physical worlds, creating a persistent, immersive, and interconnected environment where users can interact, socialize, work, play, and design. The metaverse concept has gained significant attention in recent years, driven by technological advancements, augmented reality, virtual reality, blockchain, and the desire to create expansive digital universes.
 
 #### **Phygital Metaverse**
 
-The Phygital Metaverse is a fusion of the physical and digital worlds, where augmented reality (AR), virtual reality (VR), and blockchain technologies combine to create a seamless, immersive, and interconnected environment. It blurs the boundaries between physical and virtual reality, enabling users to interact with digital and real-world elements in a shared, persistent space. In the Phygital Metaverse, spatially-driven experiences, events, and exhibitions where users can participate, explore, and engage with digital and physical elements simultaneously are possible like never before.
+The Phygital Metaverse is a fusion of the physical and digital worlds, where augmented reality (AR), virtual reality (VR), and blockchain technologies combine to create a seamless, immersive, and interconnected environment. It blurs physical and virtual reality boundaries, enabling users to interact with digital and real-world elements in a shared, persistent space. In the Phygital Metaverse, spatially-driven experiences, events, and exhibitions where users can simultaneously participate, explore, and engage with digital and physical elements are possible like never before.
 
 #### **Digital Twins**&#x20;
 
@@ -244,10 +244,11 @@ The entity providing financial or resource support for specific purposes, such a
 
 The recipient of financial or resource support awarded for specific purposes.
 
-### Eligibility
+The criteria defining who can apply for a grant are often based on factors like project type, location, or organizational status.
 
-The criteria defining who can apply for a grant are often based on factors like project type, location, or organizational status.\
-Grant Foundation: An organization that provides financial support for specific purposes such as research, education, or social initiatives. It operates based on a mission that guides its funding decisions.
+### Grant Foundation
+
+An organization provides financial support for specific purposes such as research, education, or social initiatives. It operates based on a mission that guides its funding decisions.
 
 ### Grant Committee
 
@@ -261,7 +262,7 @@ Request for proposal (RFP): advertisements outlining funding needs and criteria.
 
 ### Proposal
 
-A document outlining the project, budget, objectives, and qualifications of the grantee submitted for grant consideration.
+A document outlining the grantee's project, budget, objectives, and qualifications submitted for grant consideration.
 
 ### Evaluation
 
@@ -269,11 +270,11 @@ The process by which the grantor assesses the project's success.
 
 ### Funding Round
 
-A specific period during which applications are accepted and funds are distributed for a particular grant program.
+A specific period during which applications are accepted, and funds are distributed for a particular grant program.
 
 ### Matching Funds
 
-Additional funding secured by the grantee from other sources.
+Additional funding is secured by the grantee from other sources.
 
 ### In-Kind Contributions
 
@@ -281,7 +282,7 @@ Resources offered to support the project are valued as financial equivalents.
 
 ### Deliverables
 
-Tangible outputs or outcomes expected from the grantee, outlined in the grant agreement, and used to track project progress.
+Tangible outputs or outcomes expected from the grantee, outlined in the grant agreement and used to track project progress.
 
 ### Milestones
 
@@ -289,7 +290,7 @@ Key progress markers linked to deliverables and timelines, ensuring the project 
 
 ### Impact Metrics / KPIs
 
-Measurements of the lasting change your project makes in the world beyond just finishing tasks.
+Measurements of the lasting change your project makes beyond just finishing tasks.
 
 ### Quadratic Funding
 
