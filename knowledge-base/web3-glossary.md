@@ -22,7 +22,7 @@ Layer 0 (L0) blockchains serve as the foundational infrastructure in the blockch
 
 ### **Layer 1 (L1)**
 
-
+Layer 1 (L1) blockchains are the foundational networks in the blockchain ecosystem, responsible for processing and validating transactions, maintaining consensus, and supporting smart contracts and decentralized applications (dApps). These standalone networks face scalability challenges, which they address through various innovations such as sharding and consensus mechanism upgrades. Examples include Ethereum, SKALE, and Tezos, each offering unique capabilities that underpin various applications, from financial services to digital collectibles. As the core of decentralized technology, L1 blockchains are essential for ensuring transaction integrity, security, and the decentralized nature of the blockchain, serving as the backbone for a growing digital economy and the development of higher-layer solutions.
 
 ### **Layer 2 (L2)**&#x20;
 

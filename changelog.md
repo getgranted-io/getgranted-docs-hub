@@ -3,6 +3,7 @@
 v0.2.1
 
 * Glossary Grants & Funding
+* Fixed L1 entry.
 
 v0.2.0
 
