@@ -8,7 +8,7 @@ description: >-
 
 ### Tezos | $XTZ <a href="#tezos-or-usdxtz" id="tezos-or-usdxtz"></a>
 
-Tezos is a self-amending Liquid Proof of Stake (LPoS) blockchain platform that supports a rich ecosystem of decentralized applications, enabling developers and organizations to create innovative solutions with enhanced security, efficiency, and scalability. Its unique governance model and upgrade protocol foster a community-driven approach to continuous improvement, ensuring that Tezos remains at the forefront of blockchain technology. This adaptability, combined with robust smart contract capabilities, smart rollup technologies, and a robust ecosystem of tools and utilities, positions Tezos as an ideal platform for a wide range of applications, from financial services and gaming to supply chain management and beyond, facilitating a new era of decentralized digital innovation.
+Tezos is a self-amending Liquid Proof of Stake (LPoS) blockchain platform that supports a rich ecosystem of decentralized applications, enabling developers and organizations to create innovative solutions with enhanced security, efficiency, and scalability. Its unique governance model and upgrade protocol foster a community-driven approach to continuous improvement, ensuring that Tezos remains at the forefront of blockchain technology. This adaptability, combined with smart contract capabilities, modular high-throughput L2/roll-up technologies, and a robust developer ecosystem of tools and utilities, positions Tezos as an ideal platform for a wide range of applications, from financial services and gaming to supply chain management and beyond, facilitating a new era of decentralized digital innovation.
 
 _Apply Today 👉_ [_https://www.getgranted.io/granted-application_](https://www.getgranted.io/granted-application)_​_
 
@@ -20,7 +20,7 @@ Development on Tezos began in 2014, with the Tezos Foundation funding research a
 
 ### 🗺️ Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-Tezos supports various applications, including Non-fungible tokens (NFTs), Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs), and Gaming. Learn more about the projects building on Tezos on the [Tezos Ecosystem](https://ecosystem.tezos.com/) page.
+Tezos supports various applications, including Non-fungible tokens (NFTs), Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs), and Gaming. Check the [Tezos Ecosystem](https://ecosystem.tezos.com/) page for details.
 
 ### 🪙 Grant Program <a href="#grant-program" id="grant-program"></a>
 
@@ -31,7 +31,7 @@ The Tezos Foundation has teamed up with Granted, aiming to support the developme
 Tezos tech stack includes:
 
 * Liquid Proof of Stake (LPoS) consensus model ([ref](https://tezos.gitlab.io/active/proof\_of\_stake.html)).
-* Robus support for various digital asset types ([ref](https://gitlab.com/tezos/tzip)).
+* Robust support for standard digital asset types ([ref](https://gitlab.com/tezos/tzip)).
 * Forkless, self-amendable smart contracts ([ref](https://tezos.com/whitepaper.pdf)).
 * Support for multiple high-level languages (JavaScript/TypeScript, Python, OCaml) ([ref](https://tezos.com/developers/)).
 * Formal verification with mathematical proofs to verify the correctness of smart contracts ensures code behaves as intended and significantly reduces the risk of bugs and vulnerabilities ([ref](https://docs.nomadic-labs.com/nomadic-labs-knowledge-center/untitled))
