@@ -2,11 +2,11 @@
 description: >-
   This document contains comprehensive information for project teams to know
   whether Aleph Zero is the right place to build with Granted.
-cover: ../.gitbook/assets/aleph-zero-logo-full.png
+cover: ../../.gitbook/assets/aleph-zero-logo-full.png
 coverY: 0
 ---
 
-# 🐕🦺 Aleph Zero | $AZERO
+# 🐕‍🦺 Aleph Zero | $AZERO
 
 ## Aleph Zero | $AZERO
 

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Granted Knowledge Base contains detailed information about topics and
-  technologies related to web3 development.
+  Granted Knowledge Base contains detailed information about topics related to
+  Web3 Grants.
 ---
 
 # 📚 Knowledge Base
