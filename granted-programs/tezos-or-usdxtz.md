@@ -1,26 +1,26 @@
 ---
 description: >-
-  This document contains comprehensive information for project teams to know
-  whether Tezos is the right place to build with Granted.
+  This document contains an overview for project teams to know whether Tezos is
+  the right place to build with Granted.
 ---
 
 # 🐏 Tezos | $XTZ
 
 ### Tezos | $XTZ <a href="#tezos-or-usdxtz" id="tezos-or-usdxtz"></a>
 
-**Tezos** is a self-amending blockchain platform that supports smart contracts and offers a formal governance process for upgrades. Its' self-amendment and on-chain governance to ensure a secure, upgradeable, and long-term sustainable blockchain is unmatched.
+Tezos is a self-amending Liquid Proof of Stake (LPoS) blockchain platform that supports a rich ecosystem of decentralized applications, enabling developers and organizations to create innovative solutions with enhanced security, efficiency, and scalability. Its unique governance model and upgrade protocol foster a community-driven approach to continuous improvement, ensuring that Tezos remains at the forefront of blockchain technology. This adaptability, combined with robust smart contract capabilities, smart rollup technologies, and a robust ecosystem of tools and utilities, positions Tezos as an ideal platform for a wide range of applications, from financial services and gaming to supply chain management and beyond, facilitating a new era of decentralized digital innovation.
 
 _Apply Today 👉_ [_https://www.getgranted.io/granted-application_](https://www.getgranted.io/granted-application)_​_
 
 ### ⌚️ Background <a href="#background" id="background"></a>
 
-Tezos was developed around the concept of self-amendment, allowing token holders to vote on protocol upgrades. Development began in 2014, with the Tezos Foundation funding research and development from a $232 million ICO in 2017. Tezos operates on a proof-of-stake model, reducing energy consumption compared to proof-of-work systems. Its applications span NFTs, DeFi, DAOs, and gaming. The native token, XTZ, is stored in multiple wallets, with holders participating in governance votes.
+Development on Tezos began in 2014, with the Tezos Foundation funding research and development from a $232 million ICO in 2017 around the concept of self-amending blockchain, allowing token holders to vote on protocol upgrades. Tezos now operates on a Liquid Proof of Stake model, further enhanced by its formal verification system introduced in 2018. LPoS provides an extra layer of security for smart contracts by mathematically proving their correctness. In 2020, Tezos added privacy features for smart contracts, enabling developers to create applications that can handle sensitive data securely, reinforcing Tezos's position as a leading platform for secure, efficient, and upgradable decentralized applications.&#x20;
 
 {% embed url="https://www.coingecko.com/en/coins/tezos" %}
 
 ### 🗺️ Ecosystem <a href="#ecosystem" id="ecosystem"></a>
 
-Tezos supports various applications, including Non-fungible tokens (NFTs), Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs), and Gaming.
+Tezos supports various applications, including Non-fungible tokens (NFTs), Decentralized finance (DeFi), Banking, Decentralized autonomous organizations (DAOs), Decentralized identifiers (DIDs), and Gaming. Learn more about the projects building on Tezos on the [Tezos Ecosystem](https://ecosystem.tezos.com/) page.
 
 ### 🪙 Grant Program <a href="#grant-program" id="grant-program"></a>
 
