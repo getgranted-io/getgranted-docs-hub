@@ -24,7 +24,7 @@ Tezos supports various applications, including Non-fungible tokens (NFTs), Decen
 
 ### 🪙 Grant Program <a href="#grant-program" id="grant-program"></a>
 
-The Tezos Foundation has teamed up with Granted, aiming to support the development of innovative user applications and games on the network. The program prioritizes projects that showcase potential as flagship applications on the Tezos Network, particularly those aligned with open-source principles. Granted and Tezos strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. ​
+The Tezos Foundation has teamed up with Granted, aiming to support the development of innovative user applications and games on the network. The program prioritizes projects that showcase potential as flagship applications on the Tezos Network, particularly those aligned with open-source principles. Granted and Tezos strongly encourages all projects contributing to the growth of the Tezos ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community. ​
 
 ### 🧱 Tech Stack <a href="#tech-stack" id="tech-stack"></a>
 
