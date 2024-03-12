@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/docs hub header logo 1 (1).png
 coverY: 0
 ---
 
-# 🐎 Avalanche | $AVAX
+# 🐙 Avalanche | $AVAX
 
 ## ⛰ Avalanche | $AVAX
 
