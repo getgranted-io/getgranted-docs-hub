@@ -6,9 +6,9 @@ cover: ../.gitbook/assets/moonbeam-logo-full (2).png
 coverY: 26.330097087378643
 ---
 
-# 🦬 MoonBeam | $GLMR
+# 🦬 MoonBeam | GLMR
 
-## MoonBeam | $GLMR
+## MoonBeam | GLMR
 
 **Moonbeam** is an Ethereum-compatible smart contract platform on Polkadot, focusing on interoperability and ease of development for multi-chain applications.
 

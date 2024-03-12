@@ -6,9 +6,9 @@ cover: ../.gitbook/assets/tezos-logo-full (3).png
 coverY: 0
 ---
 
-# 🐏 Tezos | $XTZ
+# 🐏 Tezos | XTZ
 
-## Tezos | $XTZ
+## Tezos | XTZ
 
 **Tezos** is a self-amending blockchain platform that supports smart contracts and offers a formal governance process for upgrades. Its' self-amendment and on-chain governance to ensure a secure, upgradeable, and long-term sustainable blockchain is unmatched.
 

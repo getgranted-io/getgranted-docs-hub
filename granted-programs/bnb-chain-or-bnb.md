@@ -8,11 +8,9 @@ coverY: 0
 
 # 🐎 BNB Chain | BNB
 
-## ❖ BNB Chain | BNB
+## BNB Chain | BNB
 
-Build and Build Chain, aka BNB Chain, is a permissionless and decentralized dual-chain environment powered by a unique consensus mechanism that blends the efficiency and security of Proof of Staked Authority (PoSA).&#x20;
-
-Key attributes of the BNB Chain include its dual-chain architecture, which consists of the [BNB Beacon Chain](https://docs.bnbchain.org/docs/learn/beaconIntro/) for governance, staking, and voting alongside the [BNB Smart Chain](https://docs.bnbchain.org/docs/learn/intro/). This EVM-compatible chain fosters programmability and interoperability. Innovations such as [zkBNB](https://docs.bnbchain.org/zkBNB-docs/) and [opBNB](https://docs.bnbchain.org/opbnb-docs/) offer solutions for scalability and cost, with zkBNB utilizing zk-Rollup architecture for enhanced throughput and opBNB providing a Layer 2 scaling solution based on [Optimism's opStack](https://docs.optimism.io/). [BNB Greenfield](https://greenfield.bnbchain.org/docs/guide/introduction/overview.html) further enriches the ecosystem by redefining data ownership and monetization in the Web3 era, prioritizing user empowerment.
+Build and Build Chain, aka BNB Chain, is a permissionless and decentralized dual-chain environment powered by a unique consensus mechanism that blends the efficiency and security of Proof of Staked Authority (PoSA). It's a dual-chain architecture consisting of the [BNB Beacon Chain](https://docs.bnbchain.org/docs/learn/beaconIntro/) for governance, staking, and voting. EVM-compatible [BNB Smart Chain](https://docs.bnbchain.org/docs/learn/intro/) to foster programmability and interoperability with the Ethereum network. [zkBNB](https://docs.bnbchain.org/zkBNB-docs/) zk-Rollups for enhanced throughput, [opBNB L2](https://docs.bnbchain.org/opbnb-docs/) for efficient scaling, and [BNB Greenfield](https://greenfield.bnbchain.org/docs/guide/introduction/overview.html) for user-owned data storage.
 
 ## ⌚️ Background
 
@@ -24,25 +22,25 @@ Highlighting its scalability and efficiency, BNB Smart Chain achieved a remarkab
 
 ## 🗺️ Ecosystem
 
-#### **NFT Marketplaces**
+### **NFT Marketplaces**
 
 [**Treasureland**](https://treasureland.market/) is a multi-chain NFT platform on BNB Chain that enables users to mint, buy, sell, and auction NFTs across blockchains, fostering a vibrant digital asset ecosystem.
 
 [**JuggerWORLD**](https://www.jugger.world/) is an NFT marketplace on the BNB Chain that emphasizes user experience and community engagement. It offers a range of digital collectibles and artwork.
 
-#### **Games**
+### **Games**
 
 [**CryptoBlades**](https://www.cryptoblades.io/) is an NFT role-playing game built on the BNB Chain. Players can earn tokens through gameplay and trade their in-game NFTs.
 
 [**MOBOX**](https://www.mobox.io/) is a unique gaming platform that combines yield farming and NFTs to create a free-to-play and play-to-earn ecosystem. It leverages the power of DeFi and gaming on the BNB Chain.
 
-#### **Bridges**
+### **Bridges**
 
 [**Multichain**](https://multichain.org): Formerly known as Anyswap, Multichain is a cross-chain router protocol (CRP) that supports most networks in the blockchain space, enabling efficient and secure transfers across different chains, including the BNB Chain.
 
 [**AnySwap**](https://anyswap.exchange) is a decentralized cross-chain swap protocol, a great resource for any network.
 
-#### Wallets
+### Wallets
 
 [Trust Wallet](https://trustwallet.com): Secure Web3 wallet with 80 million+ users.
 
@@ -51,6 +49,8 @@ Highlighting its scalability and efficiency, BNB Smart Chain achieved a remarkab
 ## 🪙 Grant Program
 
 Granted and BNB Chain work together to foster innovation within the BNB Chain ecosystem for a wide array of contributions from builders, infrastructure providers, researchers, and application developers who commit to the ecosystem's growth and development.
+
+### **BNB Chain Priorities & RFPs**
 
 **💡 BNB Chain is actively seeking projects in the following areas:**
 
@@ -61,6 +61,8 @@ Granted and BNB Chain work together to foster innovation within the BNB Chain ec
 As a general policy, we encourage all eligible projects to come forward and share their work with us. We believe in the power of community-driven development to shape the future of the BNB Chain ecosystem. **🪧** [**Apply for a Grant!**](https://www.getgranted.io/granted-application)
 
 ## 🧱 Tech Stack
+
+### Overview
 
 The core of the BNB Chain can be broken into the following components:
 
@@ -74,11 +76,11 @@ The core of the BNB Chain can be broken into the following components:
 
 **BNB Greenfield brings** ownership, usage, and monetization to BNB data, enabling users and all participants in the BNB Chain ecosystem to have first and foremost control over their data. This fosters a decentralized and user-centric data economy.
 
-#### **Smart Contracts - Solidity Programming Language**
+### **Smart Contracts - Solidity Programming Language**
 
 The BNB Chain primarily supports the [Solidity programming language](https://github.com/ethereum/solidity) for smart contract development, mainly through its BNB Smart Chain (BSC) component. Solidity is a statically typed programming language designed for developing smart contracts that run on the Ethereum Virtual Machine (EVM). It allows developers to write business logic in contracts that govern transactions, interactions, and applications on the blockchain. It is the most widely used language for developing smart contracts on Ethereum-compatible blockchains, including the BNB Smart Chain.
 
-#### **Development and Testing**
+### **Development and Testing**
 
 [**Hardhat**](https://hardhat.org) is an Ethereum development environment compatible with BNB Chain. It allows developers to compile, deploy, test, and debug their Ethereum software.
 
@@ -94,7 +96,7 @@ Additionally, developers can interact with the BNB Chain using other programming
 
 **Go**: The [Go Ethereum GitHub](https://github.com/ethereum/go-ethereum) client (geth) provides a Go package to interact with Ethereum and EVM-compatible blockchains like BNB Smart Chain. It's useful for developers working on backend services that interact with the blockchain.
 
-### Consensus Mechanism
+### Consensus
 
 The BNB Chain employs the Proof of Staked Authority (PoSA) consensus mechanism, blending elements of Proof of Authority (PoA) and Delegated Proof of Stake (DPoS). This hybrid approach enables fast, efficient, and secure transaction processing by allowing selected validators to confirm transactions and produce blocks, ensuring high throughput and network integrity.
 

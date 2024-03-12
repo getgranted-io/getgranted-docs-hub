@@ -6,9 +6,9 @@ cover: ../.gitbook/assets/Mantle-Network-logo-full (1).png
 coverY: 0
 ---
 
-# 🐩 Mantle | $MNT
+# 🐩 Mantle | MNT
 
-## Mantle Network | $MNT
+## Mantle Network | MNT
 
 **Mantle** is an EVM-compatible Layer 2 scaling solution utilizing Optimistic rollups for enhanced transaction efficiency and security. Modular network architecture and cost-effective transaction processing enhance Ethereum scalability and developer experience.
 

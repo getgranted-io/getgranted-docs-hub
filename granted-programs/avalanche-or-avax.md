@@ -6,21 +6,23 @@ cover: ../.gitbook/assets/docs hub header logo 1 (1).png
 coverY: 0
 ---
 
-# 🐙 Avalanche | $AVAX
+# 🐙 Avalanche | AVAX
 
-## ⛰ Avalanche | $AVAX
+## Avalanche | AVAX
 
 Avalanche's open-source platform is designed to push the boundaries of blockchain technology, offering developers a powerful tool for building innovative and efficient applications. It features an energy-efficient consensus mechanism adaptable across various applications, making it ideal for global finance and sustainable blockchain projects. Key attributes include:
 
-* **EVM Compatibility**: Integrates the Ethereum Virtual Machine for backward compatibility with Ethereum's dApps and tools, enhancing throughput and reducing latency.
-* **High Performance**: Processes thousands of transactions per second with a latency of just one to two seconds, ensuring efficiency and scalability for developers and validators.
-* **Versatility**: Supports a wide array of applications, facilitating easy development focusing on essential dApp components such as conflict resolution and transaction specifics.
+**EVM Compatibility**: Integrates the Ethereum Virtual Machine for backward compatibility with Ethereum's dApps and tools, enhancing throughput and reducing latency.
+
+**High Performance**: Processes thousands of transactions per second with a latency of just one to two seconds, ensuring efficiency and scalability for developers and validators.
+
+**Versatility**: Supports many applications, facilitating easy development focusing on essential dApp components such as conflict resolution and transaction specifics.
 
 ## ⌚️ Background
 
 Avalanche was developed by [Emin Gün Sirer](https://www.linkedin.com/in/emin-gun-sirer-0a921a4/) and his team from Cornell University to surpass existing blockchain limitations, focusing on high throughput, scalability, and security without sacrificing decentralization. Launched in 2020, Avalanche marked a significant milestone in blockchain technology, promising to outperform Ethereum with its innovative consensus mechanism that blends the best aspects of Nakamoto consensus (used in Bitcoin) with classical consensus mechanisms. The platform's ability to process thousands of transactions per second with latencies as low as one to two seconds showcased its potential to support various applications, from decentralized finance (DeFi) to complex enterprise solutions​​​​​​.
 
-Avalanche's native token, AVAX, plays a crucial role in the ecosystem, facilitating transactions paying for fees and serving as a reward mechanism for validators who secure the network. The platform's economic model balances inflation from new token issuance with deflationary pressures from token burns, aiming to create a sustainable ecosystem that rewards participation and usage. Since its launch, Avalanche has attracted significant interest and investment, including a [$230 million funding round](https://medium.com/avalancheavax/polychain-capital-three-arrows-capital-lead-230m-investment-in-avalanche-ecosystem-1f0622fdf03a) in 2021 from prominent investors like [Polychain](https://polychain.capital/) and [Three Arrows Capital](https://en.wikipedia.org/wiki/Three\_Arrows\_Capital).
+Avalanche's native token, AVAX, plays a crucial role in the ecosystem, facilitating transactions, paying fees, and serving as a reward mechanism for validators who secure the network. The platform's economic model balances inflation from new token issuance with deflationary pressures from token burns, aiming to create a sustainable ecosystem that rewards participation and usage. Since its launch, Avalanche has attracted significant interest and investment, including a [$230 million funding round](https://medium.com/avalancheavax/polychain-capital-three-arrows-capital-lead-230m-investment-in-avalanche-ecosystem-1f0622fdf03a) in 2021 from prominent investors like [Polychain](https://polychain.capital/) and [Three Arrows Capital](https://en.wikipedia.org/wiki/Three\_Arrows\_Capital).
 
 {% embed url="https://www.coingecko.com/en/coins/avalanche" %}
 
@@ -28,13 +30,19 @@ Avalanche's native token, AVAX, plays a crucial role in the ecosystem, facilitat
 
 Avalanche's ecosystem is already making significant real-world impacts across various sectors, demonstrating the versatility and effectiveness of its fast, flexible blockchain technology. Here are several prime examples highlighting its current applications:
 
-1. [**Gaming Innovation with Gunzilla**](https://medium.com/avalancheavax/gunzilla-launches-aaa-shooter-on-an-avalanche-subnet-27d29c6eb593): The Gunzilla platform, developed on an Avalanche Subnet, is designed for gamers and blockchain enthusiasts, introducing a Play-to-Own model in its AAA battle royale game  "[Off the Grid](https://gameoffthegrid.com/)." This integration of blockchain technology aims to enhance the gaming experience by offering unique rewards and digital ownership.
-2. [**Supply Chain / Certification by Blockticity**](https://www.avax.network/blog/blockticity-mints-275m-in-hemp-and-other-product-certifications-on-avalanche): To combat fraud in the supply chain, Blockticity uses Avalanche to mint certifications for products. By linking certifications to an Avalanche NFT via a QR code, consumers and vendors can verify authenticity, with applications ranging from hemp and cannabis to potentially sneakers and fruit​​​​​​.
-3. [**Disaster Relief by Deloitte**](https://www2.deloitte.com/us/en.html): Avalanche streamlines the management of FEMA Public Assistance payments, enhancing automation, security, and transparency in the disaster relief process. This application proves crucial as natural disasters become more frequent due to climate change​​​​​​.
-4. [**E-commerce and Loyalty with Tyb/Shopify**](https://www.avax.network/blog/tyb-and-shopify-bring-web3-loyalty-platform-to-major-consumer-brands-powered-by-avalanche): TYB leverages Avalanche to offer a community-powered loyalty solution for Shopify merchants. This integration enables innovative rewards through digital collectibles, enhancing brand and fan engagement​​​​​​.
-5. [**Ticketing with Dreamus**](https://www.dreamuscompany.com/): Dreamus's ticketing app in South Korea offers a transparent, counterfeit-proof system. This technology addresses issues like scalping and secondary market abuses, benefiting users and the industry​​​​​​.
-6. [**Structured Finance via Intain**](https://intainft.com/): Intain creates a marketplace for tokenized assets. This platform enhances transparency, liquidity, and efficiency in the structured finance market, catering to asset lenders and investors​​​​​​.
-7. [**Insurance with Lemonade**](https://www.lemonade.com/): In Kenya, Lemonade leverages Avalanche to provide crop insurance to small farmers through an app. This solution offers automatic payouts in response to damaging weather conditions, utilizing smart contracts and oracles for an efficient, automated process​​​​​​.
+[**Gaming Innovation with Gunzilla**](https://medium.com/avalancheavax/gunzilla-launches-aaa-shooter-on-an-avalanche-subnet-27d29c6eb593): The Gunzilla platform, developed on an Avalanche Subnet, is designed for gamers and blockchain enthusiasts, introducing a Play-to-Own model in its AAA battle royale game  "[Off the Grid](https://gameoffthegrid.com/)." This integration of blockchain technology aims to enhance the gaming experience by offering unique rewards and digital ownership.
+
+[**Supply Chain / Certification by Blockticity**](https://www.avax.network/blog/blockticity-mints-275m-in-hemp-and-other-product-certifications-on-avalanche): To combat fraud in the supply chain, Blockticity uses Avalanche to mint certifications for products. By linking certifications to an Avalanche NFT via a QR code, consumers and vendors can verify authenticity, with applications ranging from hemp and cannabis to potentially sneakers and fruit​​​​​​.
+
+[**Disaster Relief by Deloitte**](https://www2.deloitte.com/us/en.html): Avalanche streamlines the management of FEMA Public Assistance payments, enhancing automation, security, and transparency in the disaster relief process. This application proves crucial as natural disasters become more frequent due to climate change​​​​​​.
+
+[**E-commerce and Loyalty with Tyb/Shopify**](https://www.avax.network/blog/tyb-and-shopify-bring-web3-loyalty-platform-to-major-consumer-brands-powered-by-avalanche): TYB leverages Avalanche to offer a community-powered loyalty solution for Shopify merchants. This integration enables innovative rewards through digital collectibles, enhancing brand and fan engagement​​​​​​.
+
+[**Ticketing with Dreamus**](https://www.dreamuscompany.com/): Dreamus's ticketing app in South Korea offers a transparent, counterfeit-proof system. This technology addresses issues like scalping and secondary market abuses, benefiting users and the industry​​​​​​.
+
+[**Structured Finance via Intain**](https://intainft.com/): Intain creates a marketplace for tokenized assets. This platform enhances transparency, liquidity, and efficiency in the structured finance market, catering to asset lenders and investors​​​​​​.
+
+[**Insurance with Lemonade**](https://www.lemonade.com/): In Kenya, Lemonade leverages Avalanche to provide crop insurance to small farmers through an app. This solution offers automatic payouts in response to damaging weather conditions, utilizing smart contracts and oracles for an efficient, automated process​​​​​​.
 
 ## 🪙 Grant Program
 
@@ -58,19 +66,21 @@ Avalanche's Primary Network is a diverse ecosystem comprising three separate blo
 2. **Platform Chain (P-Chain)**: Manages validator and subnet operations, including creating new blockchains and subnets, adding validators to subnets, and conducting staking operations. It acts as the backbone of the network's structure and validator coordination.
 3. **Exchange Chain (X-Chain)**: Handles digital smart assets known as Avalanche Native Tokens, which can represent real-world resources with specific rules. This chain supports creating and exchanging these tokens, with AVAX being the primary asset for transaction fees.
 
-### Consensus Mechanism
+### Consensus
 
 The Avalanche Consensus mechanism is a state-of-the-art blockchain network protocol focusing on scalability, durability, and decentralization. It integrates the best aspects of classical and Nakamoto consensus mechanisms, ensuring swift, secure consensus among nodes. Key elements of the Avalanche Consensus include:
 
-* **Mechanism**: Utilizes sub-sampled voting, where nodes consult a random subset of validators to decide on transaction validity. This method ensures rapid and efficient consensus, with safeguards to exclude invalid transactions, like those exceeding the account's AVAX balance.
-* **Consensus Achievement**: Defined by two adjustable parameters: "α" (alpha) for the required majority and "β" (beta) for the confidence threshold or consecutive rounds needed. This flexibility allows for quick finalization of transactions without conflicts, enhancing network throughput and reliability.
-* **Conflict Resolution**: In transaction conflicts, the system enables validators to converge towards a consensus decisively, ensuring only non-conflicting transactions are accepted. This process prevents bottlenecks and maintains the integrity and smooth functioning of the network.
+**Mechanism**: Utilizes sub-sampled voting, where nodes consult a random subset of validators to decide on transaction validity. This method ensures rapid and efficient consensus, with safeguards to exclude invalid transactions, like those exceeding the account's AVAX balance.
 
-### Avalanche Virtual Machine
+**Consensus Achievement**: Defined by two adjustable parameters: "α" (alpha) for the required majority and "β" (beta) for the confidence threshold or consecutive rounds needed. This flexibility allows for quick finalization of transactions without conflicts, enhancing network throughput and reliability.
+
+**Conflict Resolution**: In transaction conflicts, the system enables validators to converge towards a consensus decisively, ensuring only non-conflicting transactions are accepted. This process prevents bottlenecks and maintains the integrity and smooth functioning of the network.
+
+### Avalanche Virtual Machine (AVM)
 
 AWM is likely a feature designed to facilitate communication within the Avalanche ecosystem, enabling secure message passing between wallets or smart contracts. For detailed information, searching for "Avalanche Wallet Messaging" or "AWM Avalanche" on the official Avalanche documentation site or developer forums can yield specific insights into its functionalities, use cases, and integration guides.
 
-### **Avalanche Warp Messaging**
+### **Avalanche Warp Messaging (AWN)**
 
 Avalanche Warp Messaging (AWM) allows Virtual Machine (VM) developers to implement arbitrary communication protocols between any two Avalanche Subnets, providing native cross-subnet communication for dApps and developers in the ecosystem. The common use cases for this configuration include deploying cost-efficient Oracle Networks, execution of token transfers, and state sharding between Subnets.
 

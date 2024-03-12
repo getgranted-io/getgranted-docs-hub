@@ -8,7 +8,7 @@ coverY: 0
 
 # 🦕 Polkadot | DOT
 
-## Polkadot | $DOT&#x20;
+## Polkadot | DOT&#x20;
 
 **Polkadot** is a multi-chain blockchain protocol that enables different blockchains to interoperate and pool security. This network has strong interoperability and shared security across multiple blockchains to create a connected and scalable web of blockchains.
 

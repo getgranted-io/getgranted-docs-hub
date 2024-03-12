@@ -6,9 +6,9 @@ cover: ../.gitbook/assets/sakle-logo-full.png
 coverY: 0
 ---
 
-# 🐬 SKALE | $SKL
+# 🐬 SKALE | SKL
 
-## SKALE | $SKL&#x20;
+## SKALE | SKL&#x20;
 
 **SKALE** is a powerful, elastic blockchain network designed for scaling Ethereum applications through cost-effective, high-speed, and configurable sidechains, with solid capabilities to provide Ethereum-compatible scalability and enhanced performance without compromising security.
 

@@ -6,9 +6,9 @@ cover: ../.gitbook/assets/aleph-zero-logo-full.png
 coverY: 0
 ---
 
-# 🐕🦺 Aleph Zero | $AZERO
+# 🐕‍🦺 Aleph Zero | AZERO
 
-## Aleph Zero | $AZERO
+## Aleph Zero | AZERO
 
 **Aleph Zero** is a ZK-based privacy-enhancing, scalable, decentralized blockchain platform designed for fast and secure transactions and DApps. With advanced cryptographic techniques and a novel consensus mechanism, it provides a high level of security, scalability, and speed.
 
