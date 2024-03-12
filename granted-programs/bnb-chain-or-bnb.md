@@ -1,7 +1,7 @@
 ---
 description: >-
   This document contains comprehensive information for project teams to know
-  whether NETWORK is the right place to build with Granted.
+  whether BNB Chain is the right place to build with Granted.
 cover: ../.gitbook/assets/BNB Chain Header.png
 coverY: 0
 ---
