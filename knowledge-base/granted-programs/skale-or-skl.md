@@ -1,14 +1,16 @@
 ---
 description: >-
   This document contains comprehensive information for project teams to know
-  whether SKALE is the right place to build with Granted.
+  whether SKALE is the right place to get grants and buidl.
+cover: ../../.gitbook/assets/sakle-logo-full.png
+coverY: 0
 ---
 
-# 🐬 SKALE | $SKL
+# 🐬 SKALE | SKL
 
-## SKALE | $SKL&#x20;
+## SKALE | SKL&#x20;
 
-**SKALE** is a powerful, elastic blockchain network designed for scaling Ethereum applications through cost-effective, high-speed, and configurable sidechains, with solid capabilities to provide Ethereum-compatible scalability and enhanced performance without compromising security.
+**SKALE** is a powerful, elastic L1 blockchain network designed for scaling Ethereum applications through cost-effective, high-speed, and configurable sidechains, with solid capabilities to provide Ethereum-compatible scalability and enhanced performance without compromising security.
 
 {% hint style="info" %}
 Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
@@ -68,9 +70,9 @@ These components work together to provide a layered, configurable, and efficient
 
 ## 🎭 Roadmap
 
-SKALE’s next release (v2.3) will focus on updating compatibility with the EVM JSON-RPC API, improving validator services, and expanding transaction broadcasting capabilities. This release aims to provide more streamlined development and deployment processes for developers.
+SKALE’s next release (v2.3) will focus on updating compatibility with the EVM JSON-RPC API, improving validator services, and expanding transaction broadcasting capabilities. This release aims to provide developers with more streamlined development and deployment processes.
 
-**Metaport 2.0:** A major update to the user interface layer of the IMA Bridge, Metaport 2.0, has been released. It incorporates RainbowKit for a more unified account connection procedure and facilitates multichain transfers. The update also brings technical refinements and a sleeker user interface, enhancing overall usability. It streamlines the account connection process using RainbowKit and facilitates multichain transfers, allowing for a more seamless user experience and efficient interaction between different chains. \[[8](https://skale.space/blog/skale-q3-2023-engineering-update)]
+[**Metaport 2.0**](https://skale.space/blog/skale-q3-2023-engineering-update)**:** A major update to the user interface layer of the IMA Bridge, Metaport 2.0, has been released. It incorporates RainbowKit for a more unified account connection procedure and facilitates multichain transfers. The update also brings technical refinements and a sleeker user interface, enhancing overall usability. It streamlines the account connection process using RainbowKit and facilitates multichain transfers, allowing for a more seamless user experience and efficient chain interaction.
 
 **The Levitation Protocol:** The Levitation Protocol roadmap for 2024 includes:
 

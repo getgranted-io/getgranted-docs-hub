@@ -1,4 +1,8 @@
-# 🗃 Changelog
+# 🗃️ Changelog
+
+v0.2.2&#x20;
+
+* New Network Docs added to KB: Avalanche, BNB Chain, Tezos, Moonbeam, Mantle.
 
 v0.2.1
 

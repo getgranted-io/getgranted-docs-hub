@@ -1,16 +1,24 @@
 ---
 description: >-
   This document contains an overview for project teams to know whether Tezos is
-  the right place to build with Granted.
+  the right place to get grants and buidl.
+cover: ../../.gitbook/assets/tezos-logo-full (3).png
+coverY: 0
 ---
 
-# 🐏 Tezos | $XTZ
+# 🐏 Tezos | XTZ
 
-### Tezos | $XTZ <a href="#tezos-or-usdxtz" id="tezos-or-usdxtz"></a>
+### Tezos | XTZ <a href="#tezos-or-usdxtz" id="tezos-or-usdxtz"></a>
 
-Tezos is a self-amending Liquid Proof of Stake (LPoS) blockchain platform that supports a rich ecosystem of decentralized applications, enabling developers and organizations to create innovative solutions with enhanced security, efficiency, and scalability. Its unique governance model and upgrade protocol foster a community-driven approach to continuous improvement, ensuring that Tezos remains at the forefront of blockchain technology. This adaptability, combined with smart contract capabilities, modular high-throughput L2/roll-up technologies, and a robust developer ecosystem of tools and utilities, positions Tezos as an ideal platform for a wide range of applications, from financial services and gaming to supply chain management and beyond, facilitating a new era of decentralized digital innovation.
+Tezos is a self-amending L1 Liquid Proof of Stake (LPoS) blockchain platform that supports a rich ecosystem of decentralized applications, enabling developers and organizations to create innovative solutions with enhanced security, efficiency, and scalability. Its unique governance model and upgrade protocol foster a community-driven approach to continuous improvement, ensuring that Tezos remains at the forefront of blockchain technology. This adaptability, combined with smart contract capabilities, modular high-throughput L2/roll-up technologies, and a robust developer ecosystem of tools and utilities, positions Tezos as an ideal platform for a wide range of applications, from financial services and gaming to supply chain management and beyond, facilitating a new era of decentralized digital innovation.
 
-_Apply Today 👉_ [_https://www.getgranted.io/granted-application_](https://www.getgranted.io/granted-application)_​_
+{% hint style="info" %}
+Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
+{% endhint %}
+
+_​_
+
+
 
 ### ⌚️ Background <a href="#background" id="background"></a>
 
