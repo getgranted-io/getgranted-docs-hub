@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/mantle-logo-full.png
 coverY: 0
 ---
 
-# 🦉 Mantle | MNT
+# 🦉 Mantle MNT
 
 ## Mantle Network | MNT
 
@@ -34,13 +34,13 @@ Mantle Network's platform serves various purposes, including:
 
 ## 🪙 Grant Program <a href="#grant-program" id="grant-program"></a>
 
-Mantle Network has introduced the Mantle Grants Program, aiming to support the development and launching of innovative user applications and games. The program prioritizes projects that showcase potential as flagship applications on Mantle Network, particularly those aligned with open-source principles. Granted and Mantle strongly encourages all projects contributing to the ecosystem's growth to share their projects with us, especially those that fit under any categories known to be prioritized by the community. 🪧[ Apply Here!](https://www.getgranted.io/granted-application)​
+Mantle Network has introduced the Mantle Grants Program, aiming to support the development and launching of innovative user applications and games. The program prioritizes projects that showcase potential as flagship applications on Mantle Network, particularly those aligned with open-source principles. Granted and Mantle strongly encourages all projects contributing to the ecosystem's growth to share their projects with us, especially those that fit under any categories known to be prioritized by the community.​
 
 ## 🧱 Tech Stack <a href="#tech-stack" id="tech-stack"></a>
 
 Mantle Network's modular architecture combines an optimistic roll-up protocol with a data availability solution, offering a robust technology stack for scaling Ethereum. During its six-month Testnet phase, the network processed over 14 million transactions and welcomed 48,000+ developers, demonstrating the stability and performance of its tech stack. The main components include the execution layer, Mantle DA for data availability powered by EigenDA technology, and a centralized sequencer with additional modules like the Threshold Signature Scheme for improved off-chain transaction execution results.
 
-**L2 Optimistic Rollup:** This rollup facilitates efficient transaction execution with lower fees and higher speed by assuming transactions are valid by default. This significantly reduces the computational load and allows for faster and more cost-effective network operations.
+**L2 Optimistic Rollup:** This rollup facilitates efficient transaction execution with lower fees and higher speed by assuming transactions are valid by default. This significantly reduces the computational load and allows faster and more cost-effective network operations.
 
 **Fraud Proofs:** Allow any participant or observer of the network to challenge the validity of a transaction or state transition within a 7-day window. This mechanism ensures that even though transactions are assumed to be valid by default for efficiency, there's a safeguard in place to maintain the integrity and security of the network by allowing for these challenges and verifications. Any additional work required is only computed in case of a dispute, significantly improving efficiency and speed. If challenged, a verifier interacts with the challenger to identify and resolve the invalidity. This mechanism ensures that while the system operates optimally under normal conditions, it maintains integrity and security, providing a layer of trust and reliability.
 
@@ -50,19 +50,7 @@ Mantle Network's modular architecture combines an optimistic roll-up protocol wi
 
 ## 🛣️ Roadmap <a href="#roadmap" id="roadmap"></a>
 
-The development roadmap of Mantle Network is focused on enhancing different network components and actions on L2 and L1 for its Mainnet version, with considerations for future upgrades. Details about the specific implementations and timelines are not explicitly stated but are part of the ongoing development strategy. The Mantle Network roadmap includes:&#x20;
-
-**Initial Mainnet Launch**: Implementing essential network components and actions on L2/L1.
-
-<mark style="color:purple;">**Sequencer**</mark>&#x20;
-
-<mark style="color:purple;">**Failure Handling**</mark><mark style="color:purple;">: Introducing L1 queueing, forced inclusions, and self-sequencing.</mark>
-
-#### <mark style="color:purple;">**Batch Submitter**</mark>&#x20;
-
-<mark style="color:purple;">**Failure Handling**</mark><mark style="color:purple;">: Enabling new proposer mechanisms and an escape hatch for fund withdrawal.</mark>
-
-<mark style="color:purple;">**Future Mainnet Upgrades**</mark><mark style="color:purple;">: Additional implementations are being considered to enhance network components and actions.</mark>
+The development roadmap of Mantle Network is focused on enhancing different network components and actions on L2 and L1 for its Mainnet version, with considerations for future upgrades. Details about the specific implementations and timelines are not explicitly stated but are part of the ongoing development strategy. Learn more about the latest news around Mantle's Roadmap on the [Mantle Blog](https://www.mantle.xyz/zh/blog/ecosystem/2024-roadmap-2023-rollup).&#x20;
 
 ## 🎭 Community <a href="#community" id="community"></a>
 
@@ -99,7 +87,3 @@ Mantle Network emphasizes the importance of community involvement in shaping its
 ​[Mantle Forum](https://forum.mantlelsp.io/)
 
 ​[EcoFund Current Priorities](https://www.mantle.xyz/ecofund)
-
-{% hint style="info" %}
-Apply Today 👉 [https://www.getgranted.io/granted-application](https://www.getgranted.io/granted-application)
-{% endhint %}
