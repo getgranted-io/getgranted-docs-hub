@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/moonbeam-logo-full.png
 coverY: 27
 ---
 
-# 🪼 MoonBeam | GLMR
+# 🪼 MoonBeam GLMR
 
 ## MoonBeam | GLMR
 
@@ -52,9 +52,9 @@ Moonbeam's tech stack is robust and multifaceted, supporting various application
 
 **Substrate Framework**: Facilitates integration within the Polkadot ecosystem.
 
-**Cross-Chain Capabilities**: Enables interoperability with various blockchains through Polkadot’s cross-consensus messaging (XCM).
-
 **Smart Contract Capabilities**: Supports Solidity and other Ethereum-native programming languages.
+
+**Cross-Chain Capabilities**: [Connected contracts](https://moonbeam.network/blog/cross-chain-smart-contracts/) allow end users to couple any token with functionality on any blockchain anytime. Cross-chain messages are sent across chains, including Polkadot (via [XCM, cross-consensus messaging](https://moonbeam.network/blog/xcm-on-polkadot/)) and Ethereum, Cosmos, and Avalanche (via cross-chain messaging systems such as Axelar and Wormhole).
 
 **User Interface Tools**: Integrates with popular tools like MetaMask and Hardhat for a seamless developer experience.
 
