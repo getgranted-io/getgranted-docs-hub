@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/aleph-zero-logo-full.png
 coverY: 0
 ---
 
-# 🐕‍🦺 Aleph Zero | AZERO
+# 🐕‍🦺 Aleph Zero AZERO
 
 ## Aleph Zero | AZERO
 
@@ -40,11 +40,9 @@ Aleph Zero, launched in late 2021, is a permissionless Layer-1 blockchain develo
 
 To foster further expansion and attract more developers, Aleph Zero has partnered with Granted to provide grants and resources to support emerging projects in the ecosystem.&#x20;
 
-The Granted team is especially keen on backing teams that utilize Aleph Zero's distinctive capabilities. This includes a variety of applications, from innovative uses of ZK-SNARKs and DeFi scenarios to enhancements within the network itself.
+The Granted team is especially keen on backing teams that utilize Aleph Zero's distinctive capabilities. This includes a variety of applications, from games to innovative uses of ZK-SNARKs and DeFi scenarios to enhancements within the network itself.
 
-Granted and Aleph Zero strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.&#x20;
-
-🪧 [Apply Here!](https://www.getgranted.io/granted-application)
+Granted and Aleph Zero strongly encourages all projects contributing to the growth of the Aleph Zero ecosystem to share their projects with us, especially those that fit under any categories known to be prioritized by the community.  🪧 [Apply Here!](https://www.getgranted.io/granted-application)
 
 ## **🧱 Tech Stack**
 
@@ -65,6 +63,8 @@ _**Privacy:**_ With [Liminal](https://alephzero.org/ecosystem/)_,_ a native priv
 **"Hub and Spoke":** Aleph Zero introduces a "hub and spoke" model where businesses can maintain a private instance or 'spoke' that interacts with the central 'hub' or decentralized ledger. This model allows companies to engage in trustless and efficient interactions while retaining privacy and control over their networks.
 
 _**Scalable DAG**_**:** Directed Acyclic Graph (DAG) technology, coupled with the AlephBFT consensus protocol, allows Aleph Zero to maintain high transaction throughput while ensuring security and decentralization. This makes it a suitable platform for businesses and enterprises seeking scalable blockchain solutions.
+
+[EVM-Bridge](https://alephzero.org/blog/aleph-zero-bridges-most-router/): MOST is a guardian-based decentralized bridge for bridging native ETH, stablecoins, and tokens from Ethereum to Aleph Zero to incentivize attracting liquidity to be used within the Aleph Zero ecosystem. Together with MOST and zParachain bridge, further integration with [Router Protocol](https://www.routerprotocol.com/) introduces a versatile bridging option to a variety of ecosystems such as Ethereum, Polygon, BNB Smart Chain, Avalanche, Fantom, Aurora, Kava, Base, Arbitrum, Rootstock, Near, Moonbeam, and Moonriver, and more to come.
 
 ## 🛣️ Roadmap
 
