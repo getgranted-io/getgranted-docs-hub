@@ -23,8 +23,6 @@ layout:
 
 [gamefi.md](gamefi.md "mention")
 
-[Broken link](broken-reference "mention")
-
 [network.md](network.md "mention")
 
 [nft.md](nft.md "mention")

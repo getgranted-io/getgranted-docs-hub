@@ -30,7 +30,7 @@ The following serves as a snapshot of Moonbeam's ecosystem across several Web3 c
 
 **Cross-chain Connectivity**: Enhances interoperability between Ethereum, Cosmos, and Avalanche blockchains.
 
-**Gaming**: Supports games like [Evrloot](https://evrloot.io/) and [Blockchain Monster Hunt](https://bcmhunt.com/), offering deep NFT integration and blockchain features.
+**Gaming**: Supports games like [Evrloot](https://evrloot.io/) and [Blockchain Monster Hunt](https://bcmhunt.com/), offering deep NFT integration and blockchain features. [Metafab](https://docs.moonbeam.network/builders/integrations/gaming/metafab/) offers developer SDKs for Unity, Android, C#, and more that support creating and managing tokenized game assets, on-chain lootboxes, in-game currencies, shops, and on-chain marketplaces.&#x20;
 
 **Real World Assets (RWA)**: Advances on-chain tokenization through partnerships like [Centrifuge](https://centrifuge.io/) and [Transfero](https://transfero.com/), boosting asset accessibility and liquidity.
 
