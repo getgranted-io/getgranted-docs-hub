@@ -6,4 +6,4 @@ description: >-
 
 # 📚 Knowledge Base
 
-💡 Learn more about important technologies and topics in our new [Web3 Glossary](web3-glossary.md)!
+💡 Learn more about important technologies and topics in our new [Web3 Glossary](web3-glossary/)!

@@ -3,6 +3,7 @@
 v0.2.2&#x20;
 
 * New Network Docs added to KB: Avalanche, BNB Chain, Tezos, Moonbeam, Mantle.
+* Updated Glossary. Credits to BillionAireSon on Medium and Matt from $1Inch.
 
 v0.2.1
 
