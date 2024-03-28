@@ -17,7 +17,6 @@
     * [🐬 SKALE SKL](knowledge-base/granted-programs/skale-skl.md)
     * [🐏 Tezos XTZ](knowledge-base/granted-programs/tezos-xtz.md)
     * [🪼 MoonBeam GLMR](knowledge-base/granted-programs/moonbeam-glmr.md)
-    * [🦉 Mantle MNT](knowledge-base/granted-programs/mantle-mnt.md)
     * [💡 Coming Soon...](knowledge-base/granted-programs/coming-soon....md)
   * [🔖 Web3 Glossary](knowledge-base/web3-glossary/README.md)
     * [🍄 DeFi/CeFi](knowledge-base/web3-glossary/defi-cefi.md)
