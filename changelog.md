@@ -1,6 +1,10 @@
 # 🗃️ Changelog
 
-v0.2.2&#x20;
+v0.2.3
+
+* Metrics & KPI definitions added to KB
+
+v0.2.2
 
 * New Network Docs added to KB: Avalanche, BNB Chain, Tezos, Moonbeam.
 * Updated Glossary. Credits to BillionAireSon on Medium and Matt from $1Inch.

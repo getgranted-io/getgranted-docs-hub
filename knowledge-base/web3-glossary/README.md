@@ -19,7 +19,7 @@ layout:
 
 [ecosystem.md](ecosystem.md "mention")
 
-[funding.md](funding.md "mention")
+[funding](funding/ "mention")
 
 [gamefi.md](gamefi.md "mention")
 
