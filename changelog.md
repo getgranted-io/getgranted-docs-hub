@@ -2,11 +2,12 @@
 
 v0.2.3
 
-* Metrics & KPI definitions added to KB
+* Metrics & KPI definitions added to KB.
+* Add Mantle Network | MNT.
 
 v0.2.2
 
-* New Network Docs added to KB: Avalanche, BNB Chain, Tezos, Moonbeam.
+* New Network Docs were added to KB: Avalanche, BNB Chain, Tezos, and Moonbeam.
 * Updated Glossary. Credits to BillionAireSon on Medium and Matt from $1Inch.
 
 v0.2.1
@@ -16,14 +17,13 @@ v0.2.1
 
 v0.2.0
 
-* Partner cover images added
-* First Partnership Networks added: SKALE, Aleph Zero
-* Added intro to granted programs page.
+* Partner cover images added.
+* First Partnership Networks added: SKALE, Aleph Zero.
+* Added intro to the granted programs page.
 * Added Glossary
 
 v0.1.2
 
-* removed kyb reference
 * removed personal twitter link
 
 v0.1.1
